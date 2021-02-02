@@ -51,6 +51,13 @@ ent_DB = tk.Entry(master=fr_DB)
 ent_DB.insert(0, "ultimate_player_database.db")
 ent_DB.pack(side=tk.LEFT)
 
+on_var = tk.IntVar()
+off_var = tk.IntVar()
+cb_online = tk.Checkbutton(master=root, text="Use Online results", variable=on_var, onvalue=1, offvalue=0)
+cb_online.pack(side=tk.TOP)
+cb_offline = tk.Checkbutton(master=root, text="Use Offline results", variable=off_var, onvalue=1, offvalue=0)
+cb_offline.pack(side=tk.TOP)
+
 fr_seed = tk.Frame(master=root,width=25,height=25)
 fr_seed.pack(side=tk.TOP)
 btn_seed = tk.Button(master=fr_seed,text="Start!")
@@ -129,26 +136,33 @@ def get_points(placings,player_tag):
         
         #If the player DQ'd we will skip this tournament
         #Later functionality will count them and penalize it
+        key = (tournament["key"],)
+        logs.wl(f"Torneo: {key[0]}")
         if tournament["dq"] is True:
             logs.wl("DQ, ignoring tournament")
+            logs.wl("-----------------------------------------------------------")
             continue
         
         #We get the key of the tournament
         #to see if it's an online/offline one
         
         #For now only online is implemented
-        key = (tournament["key"],)
-        logs.wl(f"Torneo: {key[0]}")
+        
         
         c.execute('SELECT online FROM tournament_info WHERE key=?',key)
         online = c.fetchone()
         
         #If it's an offline tournament we skip it
-        if online[0] == 0 and off == False:
+        on = on_var.get()
+        off = off_var.get()
+        logs.wl(f"{online[0]} {str(off)} {str(on)}")
+        if online[0] == 0 and off == 0:
             logs.wl("Offline tournament, ignoring it")
+            logs.wl("-----------------------------------------------------------")
             continue
-        else if online[0] == on and on == True:
+        elif online[0] == 1 and on == 0:
             logs.wl("Online tournament, ignoring it")
+            logs.wl("-----------------------------------------------------------")
             continue
         
         
@@ -214,10 +228,10 @@ def get_points(placings,player_tag):
         logs.wl(f"Points: {value*mult}")
         logs.wl("-----------------------------------------------------------")
         
-        if len(provisional_points) > 0:
-            points[player_tag] = sum(provisional_points)/len(provisional_points)
-        else:
-            points[player_tag] = 0
+    if len(provisional_points) > 0:
+        points[player_tag] = sum(provisional_points)/len(provisional_points)
+    else:
+        points[player_tag] = 0
             
 
 
