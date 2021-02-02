@@ -21,7 +21,7 @@ class cfile:
         
 
 
-    
+
 #GUI
     
 
@@ -144,8 +144,11 @@ def get_points(placings,player_tag):
         online = c.fetchone()
         
         #If it's an offline tournament we skip it
-        if online[0] == 0:
+        if online[0] == 0 and off == False:
             logs.wl("Offline tournament, ignoring it")
+            continue
+        else if online[0] == on and on == True:
+            logs.wl("Online tournament, ignoring it")
             continue
         
         
