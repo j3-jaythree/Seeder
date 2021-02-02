@@ -1,0 +1,3130 @@
+DB: ultimate_player_database.db
+Conected to DB succesfully! 
+
+Values:
+{1: 10, 2: 8, 3: 6, 4: 5, 8: 4, 16: 3, 32: 2, 64: 1, 128: 0.5, 256: 0.25, 512: 0.125}
+
+Multipliers:
+{16: 0.5, 32: 0.75, 64: 1, 128: 2, 256: 4, 512: 8}
+
+Filename: CS8.csv
+File opened succesfully! 
+
+-----------------------------------------------------------
+Player: Psyduck
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: Fistro
+-----------------------------------------------------------
+('[{"key": "smash-motivational-ibiza__super-smash-bros-motivational", "placing": 3, "seed": 7, "dq": false}, {"key": "european-bootcamp-weekly-56__ultimate-singles", "placing": 49, "seed": 53, "dq": false}, {"key": "european-bootcamp-midweek-drills-29__singles", "placing": 49, "seed": 43, "dq": true}, {"key": "european-bootcamp-midweek-drills-30-1__singles", "placing": 49, "seed": 58, "dq": false}, {"key": "tech-republic-iv__ultimate-singles", "placing": 193, "seed": 248, "dq": false}, {"key": "european-bootcamp-midweek-drills-35__singles", "placing": 33, "seed": 48, "dq": false}, {"key": "truecomboseries__truecomboseries", "placing": 9, "seed": 11, "dq": false}, {"key": "tizona__ultimate-singles", "placing": 49, "seed": 91, "dq": false}, {"key": "charlierv-2-edition__charlierv-2-edition", "placing": 33, "seed": 17, "dq": false}, {"key": "housing-1__ultimate-singles", "placing": 49, "seed": 45, "dq": false}, {"key": "la-cuarentena-de-vidad__ultimate-singles", "placing": 9, "seed": 14, "dq": false}, {"key": "housing-2__ultimate-singles", "placing": 65, "seed": 29, "dq": true}, {"key": "big-blue-house__ultimate-singles", "placing": 13, "seed": 24, "dq": false}, {"key": "the-winner-techs-it-all-1-50-prize-pot-2__ultimate-singles", "placing": 33, "seed": 103, "dq": false}, {"key": "viric-war-girona__ultimate-singles-online", "placing": 5, "seed": 11, "dq": false}, {"key": "housing-3__ultimate-singles", "placing": 13, "seed": 36, "dq": false}, {"key": "shuriken-storm-1__singles", "placing": 25, "seed": 42, "dq": false}, {"key": "charliessb-3-edition__charlievid-1", "placing": 65, "seed": 31, "dq": false}, {"key": "housing-4__ultimate-singles", "placing": 25, "seed": 19, "dq": false}, {"key": "european-bootcamp-midweek-drills-82__singles", "placing": 49, "seed": 75, "dq": false}, {"key": "the-tron-legacy-tournament-8__singles", "placing": 5, "seed": 13, "dq": false}, {"key": "straight-outta-smashville-chapter-34__straight-outta-smashville-chapter-34", "placing": 25, "seed": 165, "dq": false}, {"key": "the-quarantine-series__minor-tournament-1", "placing": 513, "seed": 4595, "dq": false}, {"key": "housing-5__ultimate-singles", "placing": 25, "seed": 18, "dq": false}, {"key": "bergisch-brawl-5__super-smash-bros-ultimate", "placing": 65, "seed": 75, "dq": true}, {"key": "135-prize-pool-glowpoint-happyhour-1__ultimate-singles", "placing": 257, "seed": 245, "dq": false}, {"key": "back-throw-wins-6__singles", "placing": 33, "seed": 54, "dq": false}, {"key": "the-quarantine-series__pound-online-ultimate-singles", "placing": 769, "seed": 410, "dq": false}, {"key": "the-tron-legacy-tournament-9__singles", "placing": 33, "seed": 23, "dq": false}, {"key": "european-bootcamp-midweek-drills-83__singles", "placing": 65, "seed": 29, "dq": false}, {"key": "the-smash-n-cash-tournament__smash-n-cash", "placing": 513, "seed": 747, "dq": true}, {"key": "smash-quarantine-series-outbreak-1-120-cash-prize__smash-ultimate-singles", "placing": 129, "seed": 74, "dq": true}, {"key": "shuriken-storm-2__singles", "placing": 25, "seed": 69, "dq": false}, {"key": "housing-6__ultimate-singles", "placing": 13, "seed": 16, "dq": false}, {"key": "straight-outta-smashville-chapter-35__straight-outta-smashville-chapter-35", "placing": 193, "seed": 118, "dq": true}, {"key": "housing-7__ultimate-singles", "placing": 13, "seed": 17, "dq": false}, {"key": "the-winner-techs-it-all-2-50-prize-pot__ultimate-singles", "placing": 65, "seed": 73, "dq": false}, {"key": "torneo-smash-la-comarcon-en-casa-1__ultimate-singles", "placing": 7, "seed": 8, "dq": false}, {"key": "kafevania-tournament__smash-ultimate-singles", "placing": 3, "seed": 14, "dq": false}, {"key": "smash-royal-3-ultimate-edition-eu__ultimate-singles", "placing": 49, "seed": 29, "dq": true}, {"key": "front-runners-online-3__ultimate-singles", "placing": 49, "seed": 60, "dq": true}, {"key": "smash-quarantine-series-may-week-2-55__smash-ultimate-singles", "placing": 129, "seed": 30, "dq": true}, {"key": "smash-majlis-x-european-bootcamp-delay-war__online-singles", "placing": 97, "seed": 125, "dq": false}, {"key": "housing-8__ultimate-singles", "placing": 25, "seed": 18, "dq": false}, {"key": "shuriken-storm-3__singles", "placing": 25, "seed": 38, "dq": false}, {"key": "ultimate-shrine-1-200-prize-pot__ult-singles-only-legend-of-zelda-characters", "placing": 65, "seed": 57, "dq": true}, {"key": "housing-9__ultimate-singles", "placing": 49, "seed": 21, "dq": true}, {"key": "torneo-oficial-xpomanga-2020__torneo-super-smash-bros-festicomic", "placing": 7, "seed": 11, "dq": false}, {"key": "housing-10__ultimate-singles", "placing": 49, "seed": 21, "dq": true}, {"key": "breakpoint-ultimate-two__breakpoint-ultimate-two-online-cup", "placing": 65, "seed": 60, "dq": true}, {"key": "1000-the-online-olympus__online-olympus-1", "placing": 1025, "seed": 506, "dq": true}, {"key": "stars-stage__stars-stage-singles", "placing": 49, "seed": 23, "dq": true}, {"key": "save-unreal__ultimate-singles", "placing": 33, "seed": 48, "dq": false}, {"key": "euskorneria-iii__euskorneria-space-edition", "placing": 7, "seed": 17, "dq": false}, {"key": "grand-open-sbs-3__ultimate-singles-grand-open", "placing": 49, "seed": 67, "dq": false}, {"key": "comarca-smashworld-7-2020-s-finale__ultimate-singles", "placing": 5, "seed": 18, "dq": false}, {"key": "torneo-especial-navidades__torneo-singles", "placing": 7, "seed": 12, "dq": false}, {"key": "pesti-o-party-arcos-de-la-frontera__smash-singles", "placing": 5, "seed": 4, "dq": false}, {"key": "european-bootcamp-midweek-drills-117__singles", "placing": 65, "seed": 51, "dq": true}]',)
+-----------------------------------------------------------
+Torneo: smash-motivational-ibiza__super-smash-bros-motivational
+Offline tournament, ignoring it
+Torneo: european-bootcamp-weekly-56__ultimate-singles
+Nº de entrants: 60
+Seed: 53
+Placing: 49
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: european-bootcamp-midweek-drills-30-1__singles
+Nº de entrants: 77
+Seed: 58
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: tech-republic-iv__ultimate-singles
+Offline tournament, ignoring it
+Torneo: european-bootcamp-midweek-drills-35__singles
+Nº de entrants: 61
+Seed: 48
+Placing: 33
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+Torneo: truecomboseries__truecomboseries
+Offline tournament, ignoring it
+Torneo: tizona__ultimate-singles
+Offline tournament, ignoring it
+Torneo: charlierv-2-edition__charlierv-2-edition
+Nº de entrants: 51
+Seed: 17
+Placing: 33
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+Torneo: housing-1__ultimate-singles
+Nº de entrants: 100
+Seed: 45
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: la-cuarentena-de-vidad__ultimate-singles
+Nº de entrants: 33
+Seed: 14
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: big-blue-house__ultimate-singles
+Nº de entrants: 66
+Seed: 24
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: the-winner-techs-it-all-1-50-prize-pot-2__ultimate-singles
+Nº de entrants: 139
+Seed: 103
+Placing: 33
+Value: 1
+Multiplier: 2
+Points: 2
+-----------------------------------------------------------
+Torneo: viric-war-girona__ultimate-singles-online
+Nº de entrants: 36
+Seed: 11
+Placing: 5
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: housing-3__ultimate-singles
+Nº de entrants: 75
+Seed: 36
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: shuriken-storm-1__singles
+Nº de entrants: 64
+Seed: 42
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: charliessb-3-edition__charlievid-1
+Nº de entrants: 127
+Seed: 31
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: housing-4__ultimate-singles
+Nº de entrants: 74
+Seed: 19
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: european-bootcamp-midweek-drills-82__singles
+Nº de entrants: 98
+Seed: 75
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: the-tron-legacy-tournament-8__singles
+Nº de entrants: 56
+Seed: 13
+Placing: 5
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: straight-outta-smashville-chapter-34__straight-outta-smashville-chapter-34
+Nº de entrants: 208
+Seed: 165
+Placing: 25
+Value: 2
+Multiplier: 2
+Points: 4
+-----------------------------------------------------------
+Torneo: the-quarantine-series__minor-tournament-1
+Nº de entrants: 5121
+Seed: 4595
+Placing: 513
+Value: 0.05
+Multiplier: 8
+Points: 0.4
+-----------------------------------------------------------
+Torneo: housing-5__ultimate-singles
+Nº de entrants: 83
+Seed: 18
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: 135-prize-pool-glowpoint-happyhour-1__ultimate-singles
+Nº de entrants: 600
+Seed: 245
+Placing: 257
+Value: 0.125
+Multiplier: 8
+Points: 1.0
+-----------------------------------------------------------
+Torneo: back-throw-wins-6__singles
+Nº de entrants: 100
+Seed: 54
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: the-quarantine-series__pound-online-ultimate-singles
+Nº de entrants: 5101
+Seed: 410
+Placing: 769
+Value: 0.05
+Multiplier: 8
+Points: 0.4
+-----------------------------------------------------------
+Torneo: the-tron-legacy-tournament-9__singles
+Nº de entrants: 62
+Seed: 23
+Placing: 33
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+Torneo: european-bootcamp-midweek-drills-83__singles
+Nº de entrants: 78
+Seed: 29
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: shuriken-storm-2__singles
+Nº de entrants: 103
+Seed: 69
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: housing-6__ultimate-singles
+Nº de entrants: 91
+Seed: 16
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: housing-7__ultimate-singles
+Nº de entrants: 69
+Seed: 17
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: the-winner-techs-it-all-2-50-prize-pot__ultimate-singles
+Nº de entrants: 189
+Seed: 73
+Placing: 65
+Value: 0.5
+Multiplier: 2
+Points: 1.0
+-----------------------------------------------------------
+Torneo: torneo-smash-la-comarcon-en-casa-1__ultimate-singles
+Nº de entrants: 34
+Seed: 8
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: kafevania-tournament__smash-ultimate-singles
+Nº de entrants: 39
+Seed: 14
+Placing: 3
+Value: 6
+Multiplier: 0.75
+Points: 4.5
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: smash-majlis-x-european-bootcamp-delay-war__online-singles
+Nº de entrants: 200
+Seed: 125
+Placing: 97
+Value: 0.5
+Multiplier: 2
+Points: 1.0
+-----------------------------------------------------------
+Torneo: housing-8__ultimate-singles
+Nº de entrants: 71
+Seed: 18
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: shuriken-storm-3__singles
+Nº de entrants: 67
+Seed: 38
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: torneo-oficial-xpomanga-2020__torneo-super-smash-bros-festicomic
+Nº de entrants: 14
+Seed: 11
+Placing: 7
+DQ, ignoring tournament
+DQ, ignoring tournament
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: save-unreal__ultimate-singles
+Nº de entrants: 64
+Seed: 48
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: euskorneria-iii__euskorneria-space-edition
+Nº de entrants: 30
+Seed: 17
+Placing: 7
+Value: 4
+Multiplier: 0.5
+Points: 2.0
+-----------------------------------------------------------
+Torneo: grand-open-sbs-3__ultimate-singles-grand-open
+Nº de entrants: 121
+Seed: 67
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: comarca-smashworld-7-2020-s-finale__ultimate-singles
+Nº de entrants: 34
+Seed: 18
+Placing: 5
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: torneo-especial-navidades__torneo-singles
+Nº de entrants: 26
+Seed: 12
+Placing: 7
+Value: 4
+Multiplier: 0.5
+Points: 2.0
+-----------------------------------------------------------
+Torneo: pesti-o-party-arcos-de-la-frontera__smash-singles
+Nº de entrants: 19
+Seed: 4
+Placing: 5
+Value: 4
+Multiplier: 0.5
+Points: 2.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+-----------------------------------------------------------
+Player: Grimm
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: DAC power
+-----------------------------------------------------------
+('[{"key": "afterlife-43__singles", "placing": 17, "seed": 14, "dq": false}, {"key": "codec-call-2__singles", "placing": 65, "seed": 73, "dq": false}, {"key": "meltdown-barcelona-4__singles", "placing": 25, "seed": 24, "dq": false}, {"key": "elite-gaming-center-ultimate-6__singles", "placing": 33, "seed": 21, "dq": false}, {"key": "afterlife-46__singles", "placing": 17, "seed": 26, "dq": false}, {"key": "afterlife-47__singles", "placing": 17, "seed": 16, "dq": false}, {"key": "codec-call-3__singles", "placing": 65, "seed": 79, "dq": false}, {"key": "meltdown-barcelona-6__singles", "placing": 25, "seed": 28, "dq": false}, {"key": "elite-gaming-center-ultimate-9__singles", "placing": 17, "seed": 26, "dq": false}, {"key": "elite-gaming-center-ultimate-10__singles", "placing": 17, "seed": 22, "dq": false}, {"key": "elite-gaming-center-ultimate-12__singles", "placing": 17, "seed": 14, "dq": false}, {"key": "meltdown-barcelona-8__singles", "placing": 17, "seed": 19, "dq": false}, {"key": "afterlife-51__singles", "placing": 9, "seed": 14, "dq": false}, {"key": "codec-call-5__singles", "placing": 25, "seed": 46, "dq": false}, {"key": "the-winner-techs-it-all-1-50-prize-pot-2__ultimate-singles", "placing": 65, "seed": 72, "dq": false}, {"key": "viric-war-girona__ultimate-singles-online", "placing": 17, "seed": 16, "dq": false}, {"key": "arms-of-smash-10-times-better-edition__ultimate-singles", "placing": 65, "seed": 28, "dq": true}, {"key": "everest-s-evenings__smash-ultimate-singles", "placing": 97, "seed": 80, "dq": true}, {"key": "charliessb-3-edition__charlievid-1", "placing": 33, "seed": 57, "dq": false}, {"key": "mentes-galaxianas-1__singles", "placing": 5, "seed": 15, "dq": false}, {"key": "the-tron-legacy-tournament-8__singles", "placing": 4, "seed": 9, "dq": false}, {"key": "smash-sanctuary-civil-war__ultimate-singles", "placing": 65, "seed": 129, "dq": false}, {"key": "back-throw-wins-5__singles", "placing": 25, "seed": 44, "dq": false}, {"key": "back-throw-wins-6__singles", "placing": 17, "seed": 36, "dq": false}, {"key": "orion-monday-moon-smash-3__ultimate-singles-mms", "placing": 9, "seed": 30, "dq": false}, {"key": "on-the-grind-5__ultimate-singles", "placing": 17, "seed": 29, "dq": false}, {"key": "the-tron-legacy-tournament-9__singles", "placing": 4, "seed": 22, "dq": false}, {"key": "shuriken-storm-2__singles", "placing": 33, "seed": 83, "dq": false}, {"key": "the-tron-legacy-tournament-10__singles", "placing": 13, "seed": 19, "dq": false}, {"key": "torneo-smash-la-comarcon-en-casa-1__ultimate-singles", "placing": 3, "seed": 9, "dq": false}, {"key": "the-tron-legacy-tournament-11__singles", "placing": 9, "seed": 21, "dq": false}, {"key": "kafevania-tournament__smash-ultimate-singles", "placing": 9, "seed": 8, "dq": false}, {"key": "shuriken-storm-3__singles", "placing": 17, "seed": 35, "dq": false}, {"key": "replay-that-clip-episode-3-30-prize__replay-that-clip-episode-3", "placing": 49, "seed": 219, "dq": false}, {"key": "radiant-saga-12__ultimate-singles", "placing": 1, "seed": 10, "dq": false}, {"key": "phantom-breakers-weekly-7-1__ultimate-singles", "placing": 9, "seed": 4, "dq": false}, {"key": "don-t-touch-your-face-6__ultimate-singles-3-00-pm-cst", "placing": 3, "seed": 6, "dq": false}, {"key": "radiant-saga-15__ultimate-singles", "placing": 2, "seed": 3, "dq": false}, {"key": "radiant-saga-16__ultimate-singles", "placing": 5, "seed": 2, "dq": false}, {"key": "the-great-garlic-showdown-14__ultimate-singles", "placing": 1, "seed": 6, "dq": false}, {"key": "don-t-touch-your-face-8__ultimate-singles-3-00-pm-cst", "placing": 1, "seed": 1, "dq": false}, {"key": "radiant-saga-17__ultimate-singles", "placing": 2, "seed": 1, "dq": false}, {"key": "the-great-garlic-showdown-16__ultimate-singles", "placing": 2, "seed": 1, "dq": false}, {"key": "grind-time-74__ultimate-singles", "placing": 5, "seed": 2, "dq": false}, {"key": "tropical-strife-12__ultimate-singles", "placing": 9, "seed": 12, "dq": true}, {"key": "the-great-garlic-showdown-17__ultimate-singles", "placing": 17, "seed": 1, "dq": false}, {"key": "radiant-saga-monthly-3__ultimate-singles", "placing": 1, "seed": 2, "dq": false}, {"key": "let-s-get-schmoovin-6__ultimate-singles", "placing": 7, "seed": 5, "dq": true}, {"key": "wx4-15-1__ultimate-singles", "placing": 1, "seed": 3, "dq": false}, {"key": "lag-switch-weekly-8__ultimate-singles", "placing": 1, "seed": 15, "dq": false}, {"key": "grind-time-75__ultimate-singles", "placing": 1, "seed": 3, "dq": false}, {"key": "tvseries-sunday-7-5-20-season-9-ep-18__tvs-singles", "placing": 9, "seed": 11, "dq": false}, {"key": "radiant-saga-18__ultimate-singles", "placing": 4, "seed": 2, "dq": false}, {"key": "f-zero-s-finest-15__ultimate-singles", "placing": 1, "seed": 2, "dq": false}, {"key": "the-great-garlic-showdown-23-random-edition__ultimate-singles", "placing": 3, "seed": 2, "dq": false}, {"key": "the-great-garlic-showdown-25__ultimate-singles", "placing": 2, "seed": 15, "dq": false}, {"key": "the-great-garlic-showdown-28__ultimate-singles", "placing": 17, "seed": 4, "dq": true}, {"key": "ssbu-gang-tourney-2__ultimate-singles-2", "placing": 5, "seed": 18, "dq": false}, {"key": "practice-mission-18-melee__singles", "placing": 1, "seed": 6, "dq": false}, {"key": "mini-housing-4__ultimate-singles", "placing": 9, "seed": 14, "dq": false}, {"key": "xetot-s-special__xetot-s-special", "placing": 7, "seed": 2, "dq": false}, {"key": "125-mystic-smash-tournament__ultimate-singles", "placing": 5, "seed": 7, "dq": false}, {"key": "combobros-50-tourney-2-free-entry__combobros-tourney-2-50-free-entry", "placing": 65, "seed": 193, "dq": false}, {"key": "torneo-oficial-xpomanga-2020__torneo-super-smash-bros-festicomic", "placing": 1, "seed": 14, "dq": false}, {"key": "andaluc-a-game-2020__smash-singles", "placing": 5, "seed": 4, "dq": false}, {"key": "tvseries-sunday-5-17-20-season-9-ep-5__tvs-singles", "placing": 4, "seed": 45, "dq": false}, {"key": "frbz-spike-city-9__frbz-spike-city-9", "placing": 5, "seed": 15, "dq": false}, {"key": "the-great-garlic-showdown-4__ultimate-singles", "placing": 9, "seed": 16, "dq": false}, {"key": "don-t-touch-your-face-3__ultimate-singles-3-00-pm-cst", "placing": 49, "seed": 52, "dq": true}, {"key": "radiant-saga-13__ultimate-singles", "placing": 2, "seed": 3, "dq": false}, {"key": "the-great-garlic-showdown-4-2-0-2__ultimate-singles", "placing": 13, "seed": 29, "dq": false}, {"key": "spiked-weekly-4-monthly-1__ultimate-singles", "placing": 9, "seed": 17, "dq": false}, {"key": "smash-ultimate-weekly-singles-15__smash-ultimate-weekly-singles-15", "placing": 4, "seed": 28, "dq": false}, {"key": "strr-friday-weeklies-7__ultimate-singles", "placing": 5, "seed": 58, "dq": false}, {"key": "astro-weeklies-online-8__astro-singles", "placing": 13, "seed": 29, "dq": false}, {"key": "smash-cadiz-x-ac-milenaria__ultimate-singles", "placing": 3, "seed": 8, "dq": false}, {"key": "the-great-garlic-showdown-6-6__ultimate-singles", "placing": 2, "seed": 1, "dq": false}, {"key": "tvseries-sunday-5-24-20-season-9-ep-7__tvs-singles", "placing": 17, "seed": 25, "dq": false}, {"key": "frbz-spike-city-10__frbz-spike-city-10", "placing": 17, "seed": 14, "dq": false}, {"key": "the-great-garlic-showdown-7__ultimate-singles", "placing": 4, "seed": 4, "dq": false}, {"key": "radiant-saga-monthly-2__ultimate-singles", "placing": 5, "seed": 2, "dq": false}, {"key": "the-smash-intercontinental-european-qualifier-100__smash-intercontinental-europe-1", "placing": 49, "seed": 57, "dq": false}, {"key": "tvseries-friday-5-29-20-season-9-ep-8-1__tvs-singles", "placing": 7, "seed": 8, "dq": false}, {"key": "the-great-garlic-showdown-8__ultimate-singles", "placing": 4, "seed": 7, "dq": false}, {"key": "1000-the-online-olympus__online-olympus-1", "placing": 129, "seed": 1020, "dq": false}, {"key": "frbz-spike-city-11__singles", "placing": 5, "seed": 11, "dq": false}, {"key": "the-great-garlic-showdown-9__ultimate-singles", "placing": 17, "seed": 50, "dq": false}, {"key": "radiant-saga-14__ultimate-singles", "placing": 3, "seed": 2, "dq": false}, {"key": "strr-friday-weeklies-8__ultimate-singles", "placing": 5, "seed": 3, "dq": false}, {"key": "tvseries-friday-6-5-20-season-9-ep-9-1__tvs-singles", "placing": 25, "seed": 12, "dq": false}, {"key": "frbz-spike-city-12__singles", "placing": 49, "seed": 16, "dq": true}, {"key": "the-great-garlic-showdown-11-random-edition__random-only", "placing": 1, "seed": 10, "dq": false}, {"key": "juego-de-rupias-iii-where-legends-are-born__juego-de-rupias-iii", "placing": 7, "seed": 9, "dq": false}, {"key": "strr-friday-weeklies-9__ultimate-singles", "placing": 25, "seed": 2, "dq": true}, {"key": "european-bootcamp-weekly-108-1__singles", "placing": 25, "seed": 61, "dq": false}, {"key": "on-the-grind-13-eu-1__ultimate-singles", "placing": 9, "seed": 28, "dq": false}, {"key": "the-great-garlic-showdown-13__ultimate-singles", "placing": 33, "seed": 12, "dq": true}, {"key": "ultimate-final-gambit-36__singles", "placing": 9, "seed": 12, "dq": false}, {"key": "smash-hut-tournament-4__smash-hut-tournament-4", "placing": 17, "seed": 6, "dq": true}, {"key": "tvseries-sunday-6-21-20-season-9-ep-14__tvs-singles", "placing": 49, "seed": 12, "dq": true}, {"key": "the-great-garlic-showdown-15__ultimate-singles", "placing": 1, "seed": 2, "dq": false}, {"key": "no-problem-21__ultimate-singles-for-the-fans", "placing": 5, "seed": 15, "dq": false}, {"key": "european-bootcamp-midweek-drills-92__singles", "placing": 13, "seed": 36, "dq": false}, {"key": "comarca-smashworld__ultimate-singles", "placing": 13, "seed": 13, "dq": false}, {"key": "tvseries-sunday-6-28-20-season-9-ep-16__tvs-singles", "placing": 9, "seed": 8, "dq": false}, {"key": "unequalled-s-ultimate-singles-5__ultimate-singles", "placing": 25, "seed": 38, "dq": false}, {"key": "european-bootcamp-midweek-drills-93__singles", "placing": 17, "seed": 22, "dq": false}, {"key": "tvseries-friday-7-3-20-season-9-ep-17__tvs-singles", "placing": 9, "seed": 5, "dq": false}, {"key": "lyfe-smash-bash-100-prize-pot__ultimate-singles", "placing": 17, "seed": 89, "dq": false}, {"key": "smash-hub-22-fighter-pass-prize__smash-hub-singles-22", "placing": 25, "seed": 17, "dq": true}, {"key": "wifight-ultimate-legends-18__ultimate-singles", "placing": 33, "seed": 15, "dq": true}, {"key": "1100-cp-fcw-special-edition-european-scale__ultmate-singles", "placing": 129, "seed": 88, "dq": false}, {"key": "tvseries-sunday-7-19-20-season-9-ep-22__tvs-singles", "placing": 17, "seed": 9, "dq": false}, {"key": "40-prize-pool-low-end-temple-2__40-let-smash-2-singles", "placing": 17, "seed": 79, "dq": false}, {"key": "35-kelly-s-tender-tussle__ktt3-singles", "placing": 4, "seed": 11, "dq": false}, {"key": "team-louie-weekly-17-15-prize-pool__ultimate-singles-17", "placing": 7, "seed": 16, "dq": false}, {"key": "european-bootcamp-midweek-drills-98__singles", "placing": 17, "seed": 16, "dq": false}, {"key": "team-louie-weekly-18-15-prize-pool__ultimate-singles-18", "placing": 7, "seed": 6, "dq": false}, {"key": "rulesets-whatever-5-prize-2__ultimate-singles", "placing": 17, "seed": 7, "dq": false}, {"key": "charge-shot-series-1__charge-shot-series-1", "placing": 13, "seed": 12, "dq": false}, {"key": "gouken-legacy__gouken-legacy-singles", "placing": 49, "seed": 121, "dq": false}, {"key": "30-cp-fcw-41__ultimate-singles", "placing": 65, "seed": 50, "dq": false}, {"key": "team-louie-finale__team-louie-finale", "placing": 17, "seed": 26, "dq": true}, {"key": "kurogami-smash__kurogami-smash-1v1", "placing": 7, "seed": 20, "dq": false}, {"key": "mystic-tgb-hospitalet-online-tournament-1__ultimate-singles-2", "placing": 17, "seed": 27, "dq": false}, {"key": "housing-gimmick-one-match-character__one-match-character", "placing": 25, "seed": 13, "dq": false}, {"key": "mystic-tgb-magaluf-online-tournament-160__ultimate-singles", "placing": 25, "seed": 28, "dq": false}, {"key": "mystic-tgb-maremagnum-online-tournament-160-1__ultimate-singles", "placing": 33, "seed": 27, "dq": false}, {"key": "mystic-tgb-gran-turia-online-tournament-160__ultimate-singles", "placing": 17, "seed": 39, "dq": false}, {"key": "mystic-tgb-pla-a-centre-online-tournament__ultimate-singles", "placing": 7, "seed": 13, "dq": false}, {"key": "housing-14__ultimate-singles", "placing": 65, "seed": 18, "dq": true}, {"key": "nayru-s-awakening-2-1__ultimate-singles", "placing": 9, "seed": 13, "dq": false}, {"key": "comarca-smashworld-6__ultimate-singles", "placing": 17, "seed": 9, "dq": false}, {"key": "ruleta-smash-2__ruleta-smash", "placing": 9, "seed": 7, "dq": false}, {"key": "salvalhalla__ultimate-singles", "placing": 9, "seed": 12, "dq": false}, {"key": "grand-open-sbs-3__ultimate-singles-grand-open", "placing": 13, "seed": 25, "dq": false}, {"key": "mini-housing-5__ultimate-singles", "placing": 25, "seed": 13, "dq": false}, {"key": "on-the-grind-39-eu__ultimate-singles", "placing": 49, "seed": 39, "dq": false}, {"key": "smash-and-chill-7__1vs1", "placing": 5, "seed": 20, "dq": false}]',)
+-----------------------------------------------------------
+Torneo: afterlife-43__singles
+Offline tournament, ignoring it
+Torneo: codec-call-2__singles
+Offline tournament, ignoring it
+Torneo: meltdown-barcelona-4__singles
+Offline tournament, ignoring it
+Torneo: elite-gaming-center-ultimate-6__singles
+Offline tournament, ignoring it
+Torneo: afterlife-46__singles
+Offline tournament, ignoring it
+Torneo: afterlife-47__singles
+Offline tournament, ignoring it
+Torneo: codec-call-3__singles
+Offline tournament, ignoring it
+Torneo: meltdown-barcelona-6__singles
+Offline tournament, ignoring it
+Torneo: elite-gaming-center-ultimate-9__singles
+Offline tournament, ignoring it
+Torneo: elite-gaming-center-ultimate-10__singles
+Offline tournament, ignoring it
+Torneo: elite-gaming-center-ultimate-12__singles
+Offline tournament, ignoring it
+Torneo: meltdown-barcelona-8__singles
+Offline tournament, ignoring it
+Torneo: afterlife-51__singles
+Offline tournament, ignoring it
+Torneo: codec-call-5__singles
+Offline tournament, ignoring it
+Torneo: the-winner-techs-it-all-1-50-prize-pot-2__ultimate-singles
+Nº de entrants: 139
+Seed: 72
+Placing: 65
+Value: 0.5
+Multiplier: 2
+Points: 1.0
+-----------------------------------------------------------
+Torneo: viric-war-girona__ultimate-singles-online
+Nº de entrants: 36
+Seed: 16
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: charliessb-3-edition__charlievid-1
+Nº de entrants: 127
+Seed: 57
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: mentes-galaxianas-1__singles
+Offline tournament, ignoring it
+Torneo: the-tron-legacy-tournament-8__singles
+Nº de entrants: 56
+Seed: 9
+Placing: 4
+Value: 5
+Multiplier: 0.75
+Points: 3.75
+-----------------------------------------------------------
+Torneo: smash-sanctuary-civil-war__ultimate-singles
+Nº de entrants: 438
+Seed: 129
+Placing: 65
+Value: 0.5
+Multiplier: 4
+Points: 2.0
+-----------------------------------------------------------
+Torneo: back-throw-wins-5__singles
+Nº de entrants: 64
+Seed: 44
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: back-throw-wins-6__singles
+Nº de entrants: 100
+Seed: 36
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: orion-monday-moon-smash-3__ultimate-singles-mms
+Nº de entrants: 64
+Seed: 30
+Placing: 9
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: on-the-grind-5__ultimate-singles
+Nº de entrants: 139
+Seed: 29
+Placing: 17
+Value: 2
+Multiplier: 2
+Points: 4
+-----------------------------------------------------------
+Torneo: the-tron-legacy-tournament-9__singles
+Nº de entrants: 62
+Seed: 22
+Placing: 4
+Value: 5
+Multiplier: 0.75
+Points: 3.75
+-----------------------------------------------------------
+Torneo: shuriken-storm-2__singles
+Nº de entrants: 103
+Seed: 83
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: the-tron-legacy-tournament-10__singles
+Nº de entrants: 59
+Seed: 19
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: torneo-smash-la-comarcon-en-casa-1__ultimate-singles
+Nº de entrants: 34
+Seed: 9
+Placing: 3
+Value: 6
+Multiplier: 0.75
+Points: 4.5
+-----------------------------------------------------------
+Torneo: the-tron-legacy-tournament-11__singles
+Nº de entrants: 45
+Seed: 21
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: kafevania-tournament__smash-ultimate-singles
+Nº de entrants: 39
+Seed: 8
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: shuriken-storm-3__singles
+Nº de entrants: 67
+Seed: 35
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: replay-that-clip-episode-3-30-prize__replay-that-clip-episode-3
+Nº de entrants: 273
+Seed: 219
+Placing: 49
+Value: 1
+Multiplier: 4
+Points: 4
+-----------------------------------------------------------
+Torneo: radiant-saga-12__ultimate-singles
+Nº de entrants: 35
+Seed: 10
+Placing: 1
+Value: 10
+Multiplier: 0.75
+Points: 7.5
+-----------------------------------------------------------
+Torneo: phantom-breakers-weekly-7-1__ultimate-singles
+Nº de entrants: 20
+Seed: 4
+Placing: 9
+Value: 3
+Multiplier: 0.5
+Points: 1.5
+-----------------------------------------------------------
+Torneo: don-t-touch-your-face-6__ultimate-singles-3-00-pm-cst
+Nº de entrants: 17
+Seed: 6
+Placing: 3
+Value: 6
+Multiplier: 0.5
+Points: 3.0
+-----------------------------------------------------------
+Torneo: radiant-saga-15__ultimate-singles
+Nº de entrants: 27
+Seed: 3
+Placing: 2
+Value: 8
+Multiplier: 0.5
+Points: 4.0
+-----------------------------------------------------------
+Torneo: radiant-saga-16__ultimate-singles
+Nº de entrants: 27
+Seed: 2
+Placing: 5
+Value: 4
+Multiplier: 0.5
+Points: 2.0
+-----------------------------------------------------------
+Torneo: the-great-garlic-showdown-14__ultimate-singles
+Nº de entrants: 26
+Seed: 6
+Placing: 1
+Value: 10
+Multiplier: 0.5
+Points: 5.0
+-----------------------------------------------------------
+Torneo: don-t-touch-your-face-8__ultimate-singles-3-00-pm-cst
+Nº de entrants: 9
+Seed: 1
+Placing: 1
+Torneo: radiant-saga-17__ultimate-singles
+Nº de entrants: 26
+Seed: 1
+Placing: 2
+Value: 8
+Multiplier: 0.5
+Points: 4.0
+-----------------------------------------------------------
+Torneo: the-great-garlic-showdown-16__ultimate-singles
+Nº de entrants: 29
+Seed: 1
+Placing: 2
+Value: 8
+Multiplier: 0.5
+Points: 4.0
+-----------------------------------------------------------
+Torneo: grind-time-74__ultimate-singles
+Nº de entrants: 9
+Seed: 2
+Placing: 5
+DQ, ignoring tournament
+Torneo: the-great-garlic-showdown-17__ultimate-singles
+Nº de entrants: 22
+Seed: 1
+Placing: 17
+Value: 2
+Multiplier: 0.5
+Points: 1.0
+-----------------------------------------------------------
+Torneo: radiant-saga-monthly-3__ultimate-singles
+Nº de entrants: 29
+Seed: 2
+Placing: 1
+Value: 10
+Multiplier: 0.5
+Points: 5.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: wx4-15-1__ultimate-singles
+Nº de entrants: 22
+Seed: 3
+Placing: 1
+Value: 10
+Multiplier: 0.5
+Points: 5.0
+-----------------------------------------------------------
+Torneo: lag-switch-weekly-8__ultimate-singles
+Nº de entrants: 15
+Seed: 15
+Placing: 1
+Torneo: grind-time-75__ultimate-singles
+Nº de entrants: 23
+Seed: 3
+Placing: 1
+Value: 10
+Multiplier: 0.5
+Points: 5.0
+-----------------------------------------------------------
+Torneo: tvseries-sunday-7-5-20-season-9-ep-18__tvs-singles
+Nº de entrants: 24
+Seed: 11
+Placing: 9
+Value: 3
+Multiplier: 0.5
+Points: 1.5
+-----------------------------------------------------------
+Torneo: radiant-saga-18__ultimate-singles
+Nº de entrants: 31
+Seed: 2
+Placing: 4
+Value: 5
+Multiplier: 0.5
+Points: 2.5
+-----------------------------------------------------------
+Torneo: f-zero-s-finest-15__ultimate-singles
+Nº de entrants: 11
+Seed: 2
+Placing: 1
+Torneo: the-great-garlic-showdown-23-random-edition__ultimate-singles
+Nº de entrants: 13
+Seed: 2
+Placing: 3
+Torneo: the-great-garlic-showdown-25__ultimate-singles
+Nº de entrants: 30
+Seed: 15
+Placing: 2
+Value: 8
+Multiplier: 0.5
+Points: 4.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: ssbu-gang-tourney-2__ultimate-singles-2
+Nº de entrants: 19
+Seed: 18
+Placing: 5
+Value: 4
+Multiplier: 0.5
+Points: 2.0
+-----------------------------------------------------------
+Torneo: practice-mission-18-melee__singles
+Nº de entrants: 9
+Seed: 6
+Placing: 1
+Torneo: mini-housing-4__ultimate-singles
+Nº de entrants: 31
+Seed: 14
+Placing: 9
+Value: 3
+Multiplier: 0.5
+Points: 1.5
+-----------------------------------------------------------
+Torneo: xetot-s-special__xetot-s-special
+Nº de entrants: 27
+Seed: 2
+Placing: 7
+Value: 4
+Multiplier: 0.5
+Points: 2.0
+-----------------------------------------------------------
+Torneo: 125-mystic-smash-tournament__ultimate-singles
+Offline tournament, ignoring it
+Torneo: combobros-50-tourney-2-free-entry__combobros-tourney-2-50-free-entry
+Nº de entrants: 220
+Seed: 193
+Placing: 65
+Value: 0.5
+Multiplier: 2
+Points: 1.0
+-----------------------------------------------------------
+Torneo: torneo-oficial-xpomanga-2020__torneo-super-smash-bros-festicomic
+Nº de entrants: 14
+Seed: 14
+Placing: 1
+Torneo: andaluc-a-game-2020__smash-singles
+Nº de entrants: 16
+Seed: 4
+Placing: 5
+Value: 4
+Multiplier: 0.5
+Points: 2.0
+-----------------------------------------------------------
+Torneo: tvseries-sunday-5-17-20-season-9-ep-5__tvs-singles
+Nº de entrants: 52
+Seed: 45
+Placing: 4
+Value: 5
+Multiplier: 0.75
+Points: 3.75
+-----------------------------------------------------------
+Torneo: frbz-spike-city-9__frbz-spike-city-9
+Nº de entrants: 75
+Seed: 15
+Placing: 5
+Value: 4
+Multiplier: 1
+Points: 4
+-----------------------------------------------------------
+Torneo: the-great-garlic-showdown-4__ultimate-singles
+Nº de entrants: 40
+Seed: 16
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: radiant-saga-13__ultimate-singles
+Nº de entrants: 35
+Seed: 3
+Placing: 2
+Value: 8
+Multiplier: 0.75
+Points: 6.0
+-----------------------------------------------------------
+Torneo: the-great-garlic-showdown-4-2-0-2__ultimate-singles
+Nº de entrants: 58
+Seed: 29
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: spiked-weekly-4-monthly-1__ultimate-singles
+Nº de entrants: 44
+Seed: 17
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: smash-ultimate-weekly-singles-15__smash-ultimate-weekly-singles-15
+Nº de entrants: 54
+Seed: 28
+Placing: 4
+Value: 5
+Multiplier: 0.75
+Points: 3.75
+-----------------------------------------------------------
+Torneo: strr-friday-weeklies-7__ultimate-singles
+Nº de entrants: 63
+Seed: 58
+Placing: 5
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: astro-weeklies-online-8__astro-singles
+Nº de entrants: 39
+Seed: 29
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: smash-cadiz-x-ac-milenaria__ultimate-singles
+Nº de entrants: 41
+Seed: 8
+Placing: 3
+Value: 6
+Multiplier: 0.75
+Points: 4.5
+-----------------------------------------------------------
+Torneo: the-great-garlic-showdown-6-6__ultimate-singles
+Nº de entrants: 36
+Seed: 1
+Placing: 2
+Value: 8
+Multiplier: 0.75
+Points: 6.0
+-----------------------------------------------------------
+Torneo: tvseries-sunday-5-24-20-season-9-ep-7__tvs-singles
+Nº de entrants: 93
+Seed: 25
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: frbz-spike-city-10__frbz-spike-city-10
+Nº de entrants: 98
+Seed: 14
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: the-great-garlic-showdown-7__ultimate-singles
+Nº de entrants: 45
+Seed: 4
+Placing: 4
+Value: 5
+Multiplier: 0.75
+Points: 3.75
+-----------------------------------------------------------
+Torneo: radiant-saga-monthly-2__ultimate-singles
+Nº de entrants: 79
+Seed: 2
+Placing: 5
+Value: 4
+Multiplier: 1
+Points: 4
+-----------------------------------------------------------
+Torneo: the-smash-intercontinental-european-qualifier-100__smash-intercontinental-europe-1
+Nº de entrants: 152
+Seed: 57
+Placing: 49
+Value: 1
+Multiplier: 2
+Points: 2
+-----------------------------------------------------------
+Torneo: tvseries-friday-5-29-20-season-9-ep-8-1__tvs-singles
+Nº de entrants: 50
+Seed: 8
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: the-great-garlic-showdown-8__ultimate-singles
+Nº de entrants: 33
+Seed: 7
+Placing: 4
+Value: 5
+Multiplier: 0.75
+Points: 3.75
+-----------------------------------------------------------
+Torneo: 1000-the-online-olympus__online-olympus-1
+Nº de entrants: 1590
+Seed: 1020
+Placing: 129
+Value: 0.25
+Multiplier: 8
+Points: 2.0
+-----------------------------------------------------------
+Torneo: frbz-spike-city-11__singles
+Nº de entrants: 79
+Seed: 11
+Placing: 5
+Value: 4
+Multiplier: 1
+Points: 4
+-----------------------------------------------------------
+Torneo: the-great-garlic-showdown-9__ultimate-singles
+Nº de entrants: 59
+Seed: 50
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: radiant-saga-14__ultimate-singles
+Nº de entrants: 45
+Seed: 2
+Placing: 3
+Value: 6
+Multiplier: 0.75
+Points: 4.5
+-----------------------------------------------------------
+Torneo: strr-friday-weeklies-8__ultimate-singles
+Nº de entrants: 57
+Seed: 3
+Placing: 5
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: tvseries-friday-6-5-20-season-9-ep-9-1__tvs-singles
+Nº de entrants: 45
+Seed: 12
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: the-great-garlic-showdown-11-random-edition__random-only
+Nº de entrants: 34
+Seed: 10
+Placing: 1
+Value: 10
+Multiplier: 0.75
+Points: 7.5
+-----------------------------------------------------------
+Torneo: juego-de-rupias-iii-where-legends-are-born__juego-de-rupias-iii
+Nº de entrants: 40
+Seed: 9
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: european-bootcamp-weekly-108-1__singles
+Nº de entrants: 62
+Seed: 61
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: on-the-grind-13-eu-1__ultimate-singles
+Nº de entrants: 77
+Seed: 28
+Placing: 9
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: ultimate-final-gambit-36__singles
+Nº de entrants: 22
+Seed: 12
+Placing: 9
+Value: 3
+Multiplier: 0.5
+Points: 1.5
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: the-great-garlic-showdown-15__ultimate-singles
+Nº de entrants: 41
+Seed: 2
+Placing: 1
+Value: 10
+Multiplier: 0.75
+Points: 7.5
+-----------------------------------------------------------
+Torneo: no-problem-21__ultimate-singles-for-the-fans
+Nº de entrants: 48
+Seed: 15
+Placing: 5
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: european-bootcamp-midweek-drills-92__singles
+Nº de entrants: 55
+Seed: 36
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: comarca-smashworld__ultimate-singles
+Nº de entrants: 38
+Seed: 13
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: tvseries-sunday-6-28-20-season-9-ep-16__tvs-singles
+Nº de entrants: 38
+Seed: 8
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: unequalled-s-ultimate-singles-5__ultimate-singles
+Nº de entrants: 38
+Seed: 38
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: european-bootcamp-midweek-drills-93__singles
+Nº de entrants: 59
+Seed: 22
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: tvseries-friday-7-3-20-season-9-ep-17__tvs-singles
+Nº de entrants: 52
+Seed: 5
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: lyfe-smash-bash-100-prize-pot__ultimate-singles
+Nº de entrants: 118
+Seed: 89
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: 1100-cp-fcw-special-edition-european-scale__ultmate-singles
+Nº de entrants: 244
+Seed: 88
+Placing: 129
+Value: 0.25
+Multiplier: 2
+Points: 0.5
+-----------------------------------------------------------
+Torneo: tvseries-sunday-7-19-20-season-9-ep-22__tvs-singles
+Nº de entrants: 42
+Seed: 9
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: 40-prize-pool-low-end-temple-2__40-let-smash-2-singles
+Nº de entrants: 106
+Seed: 79
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: 35-kelly-s-tender-tussle__ktt3-singles
+Nº de entrants: 49
+Seed: 11
+Placing: 4
+Value: 5
+Multiplier: 0.75
+Points: 3.75
+-----------------------------------------------------------
+Torneo: team-louie-weekly-17-15-prize-pool__ultimate-singles-17
+Nº de entrants: 64
+Seed: 16
+Placing: 7
+Value: 4
+Multiplier: 1
+Points: 4
+-----------------------------------------------------------
+Torneo: european-bootcamp-midweek-drills-98__singles
+Nº de entrants: 86
+Seed: 16
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: team-louie-weekly-18-15-prize-pool__ultimate-singles-18
+Nº de entrants: 43
+Seed: 6
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: rulesets-whatever-5-prize-2__ultimate-singles
+Nº de entrants: 42
+Seed: 7
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: charge-shot-series-1__charge-shot-series-1
+Nº de entrants: 58
+Seed: 12
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: gouken-legacy__gouken-legacy-singles
+Nº de entrants: 169
+Seed: 121
+Placing: 49
+Value: 1
+Multiplier: 2
+Points: 2
+-----------------------------------------------------------
+Torneo: 30-cp-fcw-41__ultimate-singles
+Nº de entrants: 135
+Seed: 50
+Placing: 65
+Value: 0.5
+Multiplier: 2
+Points: 1.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: kurogami-smash__kurogami-smash-1v1
+Nº de entrants: 103
+Seed: 20
+Placing: 7
+Value: 4
+Multiplier: 1
+Points: 4
+-----------------------------------------------------------
+Torneo: mystic-tgb-hospitalet-online-tournament-1__ultimate-singles-2
+Nº de entrants: 92
+Seed: 27
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: housing-gimmick-one-match-character__one-match-character
+Nº de entrants: 55
+Seed: 13
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: mystic-tgb-magaluf-online-tournament-160__ultimate-singles
+Nº de entrants: 96
+Seed: 28
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: mystic-tgb-maremagnum-online-tournament-160-1__ultimate-singles
+Nº de entrants: 103
+Seed: 27
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: mystic-tgb-gran-turia-online-tournament-160__ultimate-singles
+Nº de entrants: 95
+Seed: 39
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: mystic-tgb-pla-a-centre-online-tournament__ultimate-singles
+Nº de entrants: 60
+Seed: 13
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: nayru-s-awakening-2-1__ultimate-singles
+Nº de entrants: 64
+Seed: 13
+Placing: 9
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: comarca-smashworld-6__ultimate-singles
+Nº de entrants: 46
+Seed: 9
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: ruleta-smash-2__ruleta-smash
+Nº de entrants: 22
+Seed: 7
+Placing: 9
+Value: 3
+Multiplier: 0.5
+Points: 1.5
+-----------------------------------------------------------
+Torneo: salvalhalla__ultimate-singles
+Nº de entrants: 43
+Seed: 12
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: grand-open-sbs-3__ultimate-singles-grand-open
+Nº de entrants: 121
+Seed: 25
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: mini-housing-5__ultimate-singles
+Nº de entrants: 51
+Seed: 13
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: on-the-grind-39-eu__ultimate-singles
+Nº de entrants: 128
+Seed: 39
+Placing: 49
+Value: 1
+Multiplier: 2
+Points: 2
+-----------------------------------------------------------
+Torneo: smash-and-chill-7__1vs1
+Nº de entrants: 41
+Seed: 20
+Placing: 5
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: Diedan
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: illo
+illo
+Player not found! 
+ Setting seed random
+-----------------------------------------------------------
+Player: Blake
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: Trail
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: KalJM
+-----------------------------------------------------------
+('[{"key": "comarca-smashworld-4__ultimate-singles", "placing": 17, "seed": 21, "dq": false}, {"key": "the-winner-techs-it-all-3-50-prize-pot__ultimate-singles", "placing": 97, "seed": 109, "dq": true}, {"key": "gouken-saga-2-100-andresfn-sub-tournament__gouken-saga-singles", "placing": 33, "seed": 32, "dq": false}, {"key": "gouken-legacy__gouken-legacy-singles", "placing": 97, "seed": 76, "dq": false}, {"key": "mystic-tgb-hospitalet-online-tournament-1__ultimate-singles-2", "placing": 65, "seed": 90, "dq": false}, {"key": "housing-gimmick-one-match-character__one-match-character", "placing": 25, "seed": 53, "dq": false}, {"key": "mystic-tgb-magaluf-online-tournament-160__ultimate-singles", "placing": 65, "seed": 76, "dq": false}, {"key": "housing-14__ultimate-singles", "placing": 65, "seed": 65, "dq": true}, {"key": "stars-stage__stars-stage-singles", "placing": 33, "seed": 46, "dq": false}, {"key": "nayru-s-awakening-2-1__ultimate-singles", "placing": 49, "seed": 45, "dq": false}, {"key": "comarca-smashworld-6__ultimate-singles", "placing": 33, "seed": 38, "dq": false}, {"key": "comarca-smashworld-7-2020-s-finale__ultimate-singles", "placing": 25, "seed": 26, "dq": false}]',)
+-----------------------------------------------------------
+Torneo: comarca-smashworld-4__ultimate-singles
+Nº de entrants: 26
+Seed: 21
+Placing: 17
+Value: 2
+Multiplier: 0.5
+Points: 1.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: gouken-saga-2-100-andresfn-sub-tournament__gouken-saga-singles
+Nº de entrants: 35
+Seed: 32
+Placing: 33
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+Torneo: gouken-legacy__gouken-legacy-singles
+Nº de entrants: 169
+Seed: 76
+Placing: 97
+Value: 0.5
+Multiplier: 2
+Points: 1.0
+-----------------------------------------------------------
+Torneo: mystic-tgb-hospitalet-online-tournament-1__ultimate-singles-2
+Nº de entrants: 92
+Seed: 90
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: housing-gimmick-one-match-character__one-match-character
+Nº de entrants: 55
+Seed: 53
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: mystic-tgb-magaluf-online-tournament-160__ultimate-singles
+Nº de entrants: 96
+Seed: 76
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: stars-stage__stars-stage-singles
+Nº de entrants: 64
+Seed: 46
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: nayru-s-awakening-2-1__ultimate-singles
+Nº de entrants: 64
+Seed: 45
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: comarca-smashworld-6__ultimate-singles
+Nº de entrants: 46
+Seed: 38
+Placing: 33
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+Torneo: comarca-smashworld-7-2020-s-finale__ultimate-singles
+Nº de entrants: 34
+Seed: 26
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: cocacola
+-----------------------------------------------------------
+('[{"key": "torneo-mensual-del-canal-twitch-tv-binarypie3-1__inicio-del-torneo", "placing": 13, "seed": 3, "dq": true}, {"key": "housing-gimmick-reverse-mains__reverse-mains", "placing": 25, "seed": 26, "dq": true}, {"key": "housing-14__ultimate-singles", "placing": 49, "seed": 72, "dq": false}, {"key": "stars-stage__stars-stage-singles", "placing": 49, "seed": 54, "dq": false}, {"key": "nayru-s-awakening-2-1__ultimate-singles", "placing": 33, "seed": 63, "dq": false}, {"key": "grand-open-sbs-3__ultimate-singles-grand-open", "placing": 97, "seed": 118, "dq": true}]',)
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: housing-14__ultimate-singles
+Nº de entrants: 74
+Seed: 72
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: stars-stage__stars-stage-singles
+Nº de entrants: 64
+Seed: 54
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: nayru-s-awakening-2-1__ultimate-singles
+Nº de entrants: 64
+Seed: 63
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+DQ, ignoring tournament
+-----------------------------------------------------------
+Player: Tuken
+-----------------------------------------------------------
+('[{"key": "redwolf-saga-16-1__smash-ultimate-singles", "placing": 51, "seed": 57, "dq": true}]',)
+-----------------------------------------------------------
+DQ, ignoring tournament
+-----------------------------------------------------------
+Player: Pipo
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: Manugorpi
+Manugorpi
+Player not found! 
+ Setting seed random
+-----------------------------------------------------------
+Player: Alejo
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: [DR/TSP] JAVIELRICO
+-----------------------------------------------------------
+('[{"key": "grand-open-sbs__singles", "placing": 193, "seed": 67, "dq": true}, {"key": "smashxramboot-ultimate-1__smash-ultimate-singles", "placing": 17, "seed": 18, "dq": false}, {"key": "first-wave-of-smash-online__ultimate-singles", "placing": 7, "seed": 9, "dq": false}, {"key": "ultimate-x-meltdown-1__1vs1-meltdown-ruleset", "placing": 7, "seed": 8, "dq": false}, {"key": "smash-x-ramboot-ultimate-2__smash-ultimate-singles", "placing": 7, "seed": 14, "dq": false}, {"key": "dual-smash-2__dual-smash-1-singles", "placing": 9, "seed": 13, "dq": false}, {"key": "smash-x-ramboot-ultimate-3__smash-ultimate-singles", "placing": 13, "seed": 9, "dq": false}, {"key": "ultimate-meltdown-2__singles-1-vs-1-smash-valencia-ruleset", "placing": 7, "seed": 7, "dq": false}, {"key": "tech-republic-iv__ultimate-singles", "placing": 65, "seed": 106, "dq": false}, {"key": "dual-smash-4__dual-smash-singles", "placing": 5, "seed": 10, "dq": false}, {"key": "smash-x-ramboot-ultimate-4__smash-ultimate-singles", "placing": 5, "seed": 10, "dq": false}, {"key": "open-puerto-de-alicante__sabado-open-puertas-de-alicante", "placing": 7, "seed": 6, "dq": false}, {"key": "elite-smash-00__elite-singles-sbs-ruleset", "placing": 17, "seed": 3, "dq": false}, {"key": "smash-x-ramboot-ultimate-5__smash-ultimate-singles", "placing": 9, "seed": 9, "dq": false}, {"key": "smash-bros-castell-n-tournament-00__ultimate-singles", "placing": 5, "seed": 3, "dq": false}, {"key": "smash-x-petxina-ultimate-1__singles", "placing": 9, "seed": 10, "dq": false}, {"key": "elite-smash-2__singles-1-vs-1-smash-valencia-ruleset", "placing": 5, "seed": 5, "dq": false}, {"key": "codec-call-2__singles", "placing": 9, "seed": 40, "dq": false}, {"key": "smash-x-ramboot-ultimate-6__smash-ultimate-singles", "placing": 13, "seed": 11, "dq": false}, {"key": "back-throw-wins-3__singles", "placing": 7, "seed": 4, "dq": false}, {"key": "wkseries-1__wkseries-1-singles", "placing": 1, "seed": 3, "dq": false}, {"key": "smash-x-ramboot-ultimate-7__smash-ultimate-singles", "placing": 9, "seed": 29, "dq": false}, {"key": "codec-call-3__singles", "placing": 49, "seed": 26, "dq": false}, {"key": "dual-smash-x__dual-smash-singles", "placing": 33, "seed": 25, "dq": false}, {"key": "smash-x-ramboot-ultimate-8__smash-ultimate-singles", "placing": 3, "seed": 7, "dq": false}, {"key": "smash-la-c-pula-1__smash-la-cupula-last-chance-qualifier", "placing": 9, "seed": 25, "dq": false}, {"key": "ultimate-sandstorm-4__singles", "placing": 9, "seed": 9, "dq": false}, {"key": "rpl-wesmash__singles", "placing": 13, "seed": 4, "dq": false}, {"key": "codec-call-4__singles", "placing": 25, "seed": 40, "dq": false}, {"key": "tizona__ultimate-singles", "placing": 49, "seed": 34, "dq": false}, {"key": "elite-smash-9__ultimate-singles", "placing": 5, "seed": 11, "dq": false}, {"key": "safe-on-shield-ii__singles", "placing": 13, "seed": 15, "dq": false}, {"key": "rise-i__singles", "placing": 17, "seed": 27, "dq": false}, {"key": "soaked-series-invitational__soaked-series-invitational", "placing": 289, "seed": 230, "dq": false}, {"key": "smash-galaxy-i__smash-singles-1", "placing": 3, "seed": 3, "dq": false}, {"key": "housing-1__ultimate-singles", "placing": 9, "seed": 12, "dq": false}, {"key": "smash-x-factory-of-gamers-online-1-1__smash-bros-ultimate-singles", "placing": 1, "seed": 5, "dq": false}, {"key": "big-blue-house__ultimate-singles", "placing": 4, "seed": 3, "dq": false}, {"key": "the-winner-techs-it-all-1-50-prize-pot-2__ultimate-singles", "placing": 65, "seed": 16, "dq": true}, {"key": "european-bootcamp-weekly-100__singles", "placing": 25, "seed": 50, "dq": false}, {"key": "no-money-4-tech-v__ultimate-singles", "placing": 3, "seed": 1, "dq": false}, {"key": "mentes-galaxianas-1__singles", "placing": 17, "seed": 2, "dq": false}, {"key": "shuriken-storm-2__singles", "placing": 17, "seed": 24, "dq": false}, {"key": "the-winner-techs-it-all-2-50-prize-pot__ultimate-singles", "placing": 17, "seed": 30, "dq": false}, {"key": "kafevania-tournament__smash-ultimate-singles", "placing": 7, "seed": 3, "dq": false}, {"key": "back-throw-wins-7__singles", "placing": 49, "seed": 15, "dq": true}, {"key": "rugs-open-2__ultimate-singles", "placing": 7, "seed": 11, "dq": false}, {"key": "mini-housing-4__ultimate-singles", "placing": 5, "seed": 1, "dq": false}, {"key": "xetot-s-special__xetot-s-special", "placing": 5, "seed": 1, "dq": false}, {"key": "streamers-saga__smash-1-vs-1", "placing": 3, "seed": 3, "dq": false}, {"key": "super-steve-showdown__steve-showdown-singles", "placing": 9, "seed": 16, "dq": false}, {"key": "european-bootcamp-midweek-drills-110__singles", "placing": 7, "seed": 25, "dq": false}, {"key": "battle-for-the-island__singles", "placing": 49, "seed": 2, "dq": true}, {"key": "starman-last-chance-qualifier__singles", "placing": 33, "seed": 16, "dq": true}, {"key": "juego-de-rupias-iii-where-legends-are-born__juego-de-rupias-iii", "placing": 4, "seed": 3, "dq": false}, {"key": "1500-pot-playing-for-pride-a-smash-ultimate-charity-tournament__singles-bracket", "placing": 97, "seed": 369, "dq": false}, {"key": "fc-weekly-34-road-to-special-edition-1__ultimate-singles", "placing": 13, "seed": 11, "dq": false}, {"key": "zarktopia-50-prize-pool__ultimate-singles", "placing": 49, "seed": 20, "dq": true}, {"key": "zarktopia-2-15-prize-pool__ultimate-singles", "placing": 17, "seed": 8, "dq": true}, {"key": "pac-royale-40-prize-pot__pac-man-singles", "placing": 13, "seed": 6, "dq": false}, {"key": "itani-esports-tournament-1-200-prize-pool__ultimate-singles", "placing": 193, "seed": 81, "dq": true}, {"key": "35-prize-pool-smash-weekly-126-free-to-enter__35-prize-pool-smash-weekly-126", "placing": 13, "seed": 14, "dq": false}, {"key": "the-smash-intercontinental-european-qualifier-2-100__smash-intercontinental-europe-2", "placing": 97, "seed": 39, "dq": true}, {"key": "housing-gimmick-reverse-mains__reverse-mains", "placing": 13, "seed": 8, "dq": false}, {"key": "gouken-legacy__gouken-legacy-singles", "placing": 33, "seed": 41, "dq": false}, {"key": "console-combat-online-smash-ultimate__cgl-smash-eu", "placing": 49, "seed": 19, "dq": true}, {"key": "console-combat-online-smash-ultimate__cgl-smash-na-south", "placing": 65, "seed": 74, "dq": true}, {"key": "flat-realm-8-500-usd-prize-pot__ultimate-singles", "placing": 129, "seed": 372, "dq": false}, {"key": "kurogami-smash__kurogami-smash-1v1", "placing": 5, "seed": 13, "dq": false}, {"key": "mystic-tgb-hospitalet-online-tournament-1__ultimate-singles-2", "placing": 65, "seed": 19, "dq": true}, {"key": "mystic-tgb-magaluf-online-tournament-160__ultimate-singles", "placing": 17, "seed": 22, "dq": false}, {"key": "revienta-al-random-2__random-singles-1v1", "placing": 25, "seed": 13, "dq": false}, {"key": "mystic-tgb-maremagnum-online-tournament-160-1__ultimate-singles", "placing": 25, "seed": 28, "dq": false}, {"key": "salvalhalla__ultimate-singles", "placing": 3, "seed": 3, "dq": false}, {"key": "grand-open-sbs-3__ultimate-singles-grand-open", "placing": 17, "seed": 16, "dq": false}, {"key": "big-blue-house-ultimate__ultimate-singles", "placing": 5, "seed": 2, "dq": false}, {"key": "cerulean-showdown-78-we-remembered-sbf-don-t-worry-invitational__ultimate-singles", "placing": 7, "seed": 13, "dq": false}, {"key": "pesti-o-party-arcos-de-la-frontera__smash-singles", "placing": 1, "seed": 2, "dq": false}, {"key": "european-bootcamp-midweek-drills-117__singles", "placing": 33, "seed": 19, "dq": false}]',)
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: smashxramboot-ultimate-1__smash-ultimate-singles
+Offline tournament, ignoring it
+Torneo: first-wave-of-smash-online__ultimate-singles
+Nº de entrants: 51
+Seed: 9
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: ultimate-x-meltdown-1__1vs1-meltdown-ruleset
+Offline tournament, ignoring it
+Torneo: smash-x-ramboot-ultimate-2__smash-ultimate-singles
+Offline tournament, ignoring it
+Torneo: dual-smash-2__dual-smash-1-singles
+Offline tournament, ignoring it
+Torneo: smash-x-ramboot-ultimate-3__smash-ultimate-singles
+Offline tournament, ignoring it
+Torneo: ultimate-meltdown-2__singles-1-vs-1-smash-valencia-ruleset
+Offline tournament, ignoring it
+Torneo: tech-republic-iv__ultimate-singles
+Offline tournament, ignoring it
+Torneo: dual-smash-4__dual-smash-singles
+Offline tournament, ignoring it
+Torneo: smash-x-ramboot-ultimate-4__smash-ultimate-singles
+Offline tournament, ignoring it
+Torneo: open-puerto-de-alicante__sabado-open-puertas-de-alicante
+Offline tournament, ignoring it
+Torneo: elite-smash-00__elite-singles-sbs-ruleset
+Offline tournament, ignoring it
+Torneo: smash-x-ramboot-ultimate-5__smash-ultimate-singles
+Offline tournament, ignoring it
+Torneo: smash-bros-castell-n-tournament-00__ultimate-singles
+Offline tournament, ignoring it
+Torneo: smash-x-petxina-ultimate-1__singles
+Offline tournament, ignoring it
+Torneo: elite-smash-2__singles-1-vs-1-smash-valencia-ruleset
+Offline tournament, ignoring it
+Torneo: codec-call-2__singles
+Offline tournament, ignoring it
+Torneo: smash-x-ramboot-ultimate-6__smash-ultimate-singles
+Offline tournament, ignoring it
+Torneo: back-throw-wins-3__singles
+Offline tournament, ignoring it
+Torneo: wkseries-1__wkseries-1-singles
+Nº de entrants: 34
+Seed: 3
+Placing: 1
+Value: 10
+Multiplier: 0.75
+Points: 7.5
+-----------------------------------------------------------
+Torneo: smash-x-ramboot-ultimate-7__smash-ultimate-singles
+Offline tournament, ignoring it
+Torneo: codec-call-3__singles
+Offline tournament, ignoring it
+Torneo: dual-smash-x__dual-smash-singles
+Offline tournament, ignoring it
+Torneo: smash-x-ramboot-ultimate-8__smash-ultimate-singles
+Offline tournament, ignoring it
+Torneo: smash-la-c-pula-1__smash-la-cupula-last-chance-qualifier
+Offline tournament, ignoring it
+Torneo: ultimate-sandstorm-4__singles
+Offline tournament, ignoring it
+Torneo: rpl-wesmash__singles
+Nº de entrants: 43
+Seed: 4
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: codec-call-4__singles
+Offline tournament, ignoring it
+Torneo: tizona__ultimate-singles
+Offline tournament, ignoring it
+Torneo: elite-smash-9__ultimate-singles
+Offline tournament, ignoring it
+Torneo: safe-on-shield-ii__singles
+Offline tournament, ignoring it
+Torneo: rise-i__singles
+Offline tournament, ignoring it
+Torneo: soaked-series-invitational__soaked-series-invitational
+Nº de entrants: 4095
+Seed: 230
+Placing: 289
+Value: 0.125
+Multiplier: 8
+Points: 1.0
+-----------------------------------------------------------
+Torneo: smash-galaxy-i__smash-singles-1
+Offline tournament, ignoring it
+Torneo: housing-1__ultimate-singles
+Nº de entrants: 100
+Seed: 12
+Placing: 9
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: smash-x-factory-of-gamers-online-1-1__smash-bros-ultimate-singles
+Nº de entrants: 51
+Seed: 5
+Placing: 1
+Value: 10
+Multiplier: 0.75
+Points: 7.5
+-----------------------------------------------------------
+Torneo: big-blue-house__ultimate-singles
+Nº de entrants: 66
+Seed: 3
+Placing: 4
+Value: 5
+Multiplier: 1
+Points: 5
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: european-bootcamp-weekly-100__singles
+Nº de entrants: 124
+Seed: 50
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: no-money-4-tech-v__ultimate-singles
+Offline tournament, ignoring it
+Torneo: mentes-galaxianas-1__singles
+Offline tournament, ignoring it
+Torneo: shuriken-storm-2__singles
+Nº de entrants: 103
+Seed: 24
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: the-winner-techs-it-all-2-50-prize-pot__ultimate-singles
+Nº de entrants: 189
+Seed: 30
+Placing: 17
+Value: 2
+Multiplier: 2
+Points: 4
+-----------------------------------------------------------
+Torneo: kafevania-tournament__smash-ultimate-singles
+Nº de entrants: 39
+Seed: 3
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: rugs-open-2__ultimate-singles
+Nº de entrants: 25
+Seed: 11
+Placing: 7
+Value: 4
+Multiplier: 0.5
+Points: 2.0
+-----------------------------------------------------------
+Torneo: mini-housing-4__ultimate-singles
+Nº de entrants: 31
+Seed: 1
+Placing: 5
+Value: 4
+Multiplier: 0.5
+Points: 2.0
+-----------------------------------------------------------
+Torneo: xetot-s-special__xetot-s-special
+Nº de entrants: 27
+Seed: 1
+Placing: 5
+Value: 4
+Multiplier: 0.5
+Points: 2.0
+-----------------------------------------------------------
+Torneo: streamers-saga__smash-1-vs-1
+Nº de entrants: 19
+Seed: 3
+Placing: 3
+Value: 6
+Multiplier: 0.5
+Points: 3.0
+-----------------------------------------------------------
+Torneo: super-steve-showdown__steve-showdown-singles
+Nº de entrants: 45
+Seed: 16
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: european-bootcamp-midweek-drills-110__singles
+Nº de entrants: 54
+Seed: 25
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: juego-de-rupias-iii-where-legends-are-born__juego-de-rupias-iii
+Nº de entrants: 40
+Seed: 3
+Placing: 4
+Value: 5
+Multiplier: 0.75
+Points: 3.75
+-----------------------------------------------------------
+Torneo: 1500-pot-playing-for-pride-a-smash-ultimate-charity-tournament__singles-bracket
+Nº de entrants: 1144
+Seed: 369
+Placing: 97
+Value: 0.5
+Multiplier: 8
+Points: 4.0
+-----------------------------------------------------------
+Torneo: fc-weekly-34-road-to-special-edition-1__ultimate-singles
+Nº de entrants: 58
+Seed: 11
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: pac-royale-40-prize-pot__pac-man-singles
+Nº de entrants: 99
+Seed: 6
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: 35-prize-pool-smash-weekly-126-free-to-enter__35-prize-pool-smash-weekly-126
+Nº de entrants: 66
+Seed: 14
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: housing-gimmick-reverse-mains__reverse-mains
+Nº de entrants: 34
+Seed: 8
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: gouken-legacy__gouken-legacy-singles
+Nº de entrants: 169
+Seed: 41
+Placing: 33
+Value: 1
+Multiplier: 2
+Points: 2
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: flat-realm-8-500-usd-prize-pot__ultimate-singles
+Nº de entrants: 511
+Seed: 372
+Placing: 129
+Value: 0.25
+Multiplier: 4
+Points: 1.0
+-----------------------------------------------------------
+Torneo: kurogami-smash__kurogami-smash-1v1
+Nº de entrants: 103
+Seed: 13
+Placing: 5
+Value: 4
+Multiplier: 1
+Points: 4
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: mystic-tgb-magaluf-online-tournament-160__ultimate-singles
+Nº de entrants: 96
+Seed: 22
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: revienta-al-random-2__random-singles-1v1
+Nº de entrants: 54
+Seed: 13
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: mystic-tgb-maremagnum-online-tournament-160-1__ultimate-singles
+Nº de entrants: 103
+Seed: 28
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: salvalhalla__ultimate-singles
+Nº de entrants: 43
+Seed: 3
+Placing: 3
+Value: 6
+Multiplier: 0.75
+Points: 4.5
+-----------------------------------------------------------
+Torneo: grand-open-sbs-3__ultimate-singles-grand-open
+Nº de entrants: 121
+Seed: 16
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: big-blue-house-ultimate__ultimate-singles
+Nº de entrants: 31
+Seed: 2
+Placing: 5
+Value: 4
+Multiplier: 0.5
+Points: 2.0
+-----------------------------------------------------------
+Torneo: cerulean-showdown-78-we-remembered-sbf-don-t-worry-invitational__ultimate-singles
+Nº de entrants: 52
+Seed: 13
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: pesti-o-party-arcos-de-la-frontera__smash-singles
+Nº de entrants: 19
+Seed: 2
+Placing: 1
+Value: 10
+Multiplier: 0.5
+Points: 5.0
+-----------------------------------------------------------
+Torneo: european-bootcamp-midweek-drills-117__singles
+Nº de entrants: 84
+Seed: 19
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: Instinct
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: Rubik
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: Jaimichu
+-----------------------------------------------------------
+('[{"key": "torneo-mensual-del-canal-twitch-tv-binarypie3-1__inicio-del-torneo", "placing": 7, "seed": 12, "dq": false}, {"key": "comarca-smashworld-4__ultimate-singles", "placing": 17, "seed": 19, "dq": true}, {"key": "comarca-smashworld-5__ultimate-singles", "placing": 7, "seed": 11, "dq": false}, {"key": "housing-10__ultimate-singles", "placing": 49, "seed": 50, "dq": true}, {"key": "housing-13-el-ltimo-housing__ultimate-singles", "placing": 25, "seed": 49, "dq": false}, {"key": "paradox-tournament-6__paradox-tournament", "placing": 97, "seed": 80, "dq": true}, {"key": "european-bootcamp-midweek-drills-96__singles", "placing": 25, "seed": 58, "dq": false}, {"key": "rts-esport-x-e-lvets-ssbu-online__1v1", "placing": 33, "seed": 53, "dq": false}, {"key": "european-bootcamp-midweek-drills-97__singles", "placing": 49, "seed": 40, "dq": false}, {"key": "housing-gimmick-one-match-character__one-match-character", "placing": 49, "seed": 42, "dq": true}, {"key": "mystic-tgb-magaluf-online-tournament-160__ultimate-singles", "placing": 65, "seed": 90, "dq": true}, {"key": "mystic-tgb-maremagnum-online-tournament-160-1__ultimate-singles", "placing": 65, "seed": 99, "dq": false}, {"key": "housing-14__ultimate-singles", "placing": 25, "seed": 53, "dq": false}, {"key": "stars-stage__stars-stage-singles", "placing": 9, "seed": 37, "dq": false}, {"key": "reset-cup__singles", "placing": 33, "seed": 15, "dq": true}, {"key": "grand-open-sbs-3__ultimate-singles-grand-open", "placing": 33, "seed": 64, "dq": false}, {"key": "comarca-smashworld-7-2020-s-finale__ultimate-singles", "placing": 13, "seed": 12, "dq": false}, {"key": "european-bootcamp-midweek-drills-117__singles", "placing": 49, "seed": 53, "dq": false}, {"key": "mini-housing-5__ultimate-singles", "placing": 17, "seed": 33, "dq": false}]',)
+-----------------------------------------------------------
+Torneo: torneo-mensual-del-canal-twitch-tv-binarypie3-1__inicio-del-torneo
+Nº de entrants: 16
+Seed: 12
+Placing: 7
+Value: 4
+Multiplier: 0.5
+Points: 2.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: comarca-smashworld-5__ultimate-singles
+Nº de entrants: 32
+Seed: 11
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: housing-13-el-ltimo-housing__ultimate-singles
+Nº de entrants: 75
+Seed: 49
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: european-bootcamp-midweek-drills-96__singles
+Nº de entrants: 62
+Seed: 58
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: rts-esport-x-e-lvets-ssbu-online__1v1
+Nº de entrants: 60
+Seed: 53
+Placing: 33
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+Torneo: european-bootcamp-midweek-drills-97__singles
+Nº de entrants: 68
+Seed: 40
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: mystic-tgb-maremagnum-online-tournament-160-1__ultimate-singles
+Nº de entrants: 103
+Seed: 99
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: housing-14__ultimate-singles
+Nº de entrants: 74
+Seed: 53
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: stars-stage__stars-stage-singles
+Nº de entrants: 64
+Seed: 37
+Placing: 9
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: grand-open-sbs-3__ultimate-singles-grand-open
+Nº de entrants: 121
+Seed: 64
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: comarca-smashworld-7-2020-s-finale__ultimate-singles
+Nº de entrants: 34
+Seed: 12
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: european-bootcamp-midweek-drills-117__singles
+Nº de entrants: 84
+Seed: 53
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: mini-housing-5__ultimate-singles
+Nº de entrants: 51
+Seed: 33
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: NIKKERU
+NIKKERU
+Player not found! 
+ Setting seed random
+-----------------------------------------------------------
+Player: PixelR_
+-----------------------------------------------------------
+('[{"key": "elite-smushroom-kingdom-9__ultimate-singles", "placing": 33, "seed": 40, "dq": false}, {"key": "elite-smushroom-kingdom-x__ultimate-singles", "placing": 25, "seed": 28, "dq": false}, {"key": "luigicord-color-wars-2__luigi-1v1-color-wars", "placing": 43, "seed": 43, "dq": true}, {"key": "charliessb-3-edition__charlievid-1", "placing": 65, "seed": 87, "dq": false}, {"key": "comarca-smashworld-5__ultimate-singles", "placing": 17, "seed": 24, "dq": false}, {"key": "stars-stage__stars-stage-singles", "placing": 33, "seed": 42, "dq": false}, {"key": "euskorneria-iii__euskorneria-space-edition", "placing": 13, "seed": 18, "dq": false}, {"key": "grand-open-sbs-3__ultimate-singles-grand-open", "placing": 65, "seed": 97, "dq": false}, {"key": "mini-housing-5__ultimate-singles", "placing": 33, "seed": 36, "dq": false}]',)
+-----------------------------------------------------------
+Torneo: elite-smushroom-kingdom-9__ultimate-singles
+Offline tournament, ignoring it
+Torneo: elite-smushroom-kingdom-x__ultimate-singles
+Offline tournament, ignoring it
+DQ, ignoring tournament
+Torneo: charliessb-3-edition__charlievid-1
+Nº de entrants: 127
+Seed: 87
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: comarca-smashworld-5__ultimate-singles
+Nº de entrants: 32
+Seed: 24
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: stars-stage__stars-stage-singles
+Nº de entrants: 64
+Seed: 42
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: euskorneria-iii__euskorneria-space-edition
+Nº de entrants: 30
+Seed: 18
+Placing: 13
+Value: 3
+Multiplier: 0.5
+Points: 1.5
+-----------------------------------------------------------
+Torneo: grand-open-sbs-3__ultimate-singles-grand-open
+Nº de entrants: 121
+Seed: 97
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: mini-housing-5__ultimate-singles
+Nº de entrants: 51
+Seed: 36
+Placing: 33
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: Charlie
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: Snowwy
+-----------------------------------------------------------
+('[{"key": "ultimate-planet-1-5__utimate-planet-singles", "placing": 25, "seed": 40, "dq": false}, {"key": "beesmash-3__ultimate-singles", "placing": 49, "seed": 51, "dq": false}, {"key": "torneo-smash-la-comarcon-en-casa-1__ultimate-singles", "placing": 25, "seed": 18, "dq": false}, {"key": "comarca-smashworld-4__ultimate-singles", "placing": 17, "seed": 8, "dq": true}, {"key": "comarca-smashworld-5__ultimate-singles", "placing": 25, "seed": 13, "dq": false}, {"key": "the-great-garlic-showdown-4-2-0-2__ultimate-singles", "placing": 13, "seed": 22, "dq": false}, {"key": "smash-ultimate-weekly-singles-15__smash-ultimate-weekly-singles-15", "placing": 17, "seed": 29, "dq": false}, {"key": "the-great-garlic-showdown-7__ultimate-singles", "placing": 13, "seed": 17, "dq": false}, {"key": "the-smash-intercontinental-european-qualifier-100__smash-intercontinental-europe-1", "placing": 97, "seed": 111, "dq": true}, {"key": "the-great-garlic-showdown-8__ultimate-singles", "placing": 13, "seed": 13, "dq": false}, {"key": "the-great-garlic-showdown-10__ultimate-singles", "placing": 9, "seed": 8, "dq": false}, {"key": "the-great-garlic-showdown-11-random-edition__random-only", "placing": 25, "seed": 27, "dq": false}, {"key": "housing-13-el-ltimo-housing__ultimate-singles", "placing": 49, "seed": 66, "dq": false}, {"key": "revienta-al-random__random-singles-1v1", "placing": 33, "seed": 50, "dq": false}, {"key": "gouken-legacy__gouken-legacy-singles", "placing": 129, "seed": 91, "dq": true}, {"key": "kurogami-smash__kurogami-smash-1v1", "placing": 49, "seed": 56, "dq": false}, {"key": "comarca-smashworld-3__ultimate-singles", "placing": 13, "seed": 22, "dq": false}, {"key": "comarca-smashworld-7-2020-s-finale__ultimate-singles", "placing": 17, "seed": 16, "dq": false}]',)
+-----------------------------------------------------------
+Torneo: ultimate-planet-1-5__utimate-planet-singles
+Offline tournament, ignoring it
+Torneo: beesmash-3__ultimate-singles
+Offline tournament, ignoring it
+Torneo: torneo-smash-la-comarcon-en-casa-1__ultimate-singles
+Nº de entrants: 34
+Seed: 18
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: comarca-smashworld-5__ultimate-singles
+Nº de entrants: 32
+Seed: 13
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: the-great-garlic-showdown-4-2-0-2__ultimate-singles
+Nº de entrants: 58
+Seed: 22
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: smash-ultimate-weekly-singles-15__smash-ultimate-weekly-singles-15
+Nº de entrants: 54
+Seed: 29
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: the-great-garlic-showdown-7__ultimate-singles
+Nº de entrants: 45
+Seed: 17
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: the-great-garlic-showdown-8__ultimate-singles
+Nº de entrants: 33
+Seed: 13
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: the-great-garlic-showdown-10__ultimate-singles
+Nº de entrants: 36
+Seed: 8
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: the-great-garlic-showdown-11-random-edition__random-only
+Nº de entrants: 34
+Seed: 27
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: housing-13-el-ltimo-housing__ultimate-singles
+Nº de entrants: 75
+Seed: 66
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: revienta-al-random__random-singles-1v1
+Nº de entrants: 63
+Seed: 50
+Placing: 33
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: kurogami-smash__kurogami-smash-1v1
+Nº de entrants: 103
+Seed: 56
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: comarca-smashworld-3__ultimate-singles
+Nº de entrants: 33
+Seed: 22
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: comarca-smashworld-7-2020-s-finale__ultimate-singles
+Nº de entrants: 34
+Seed: 16
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: SirJohn
+-----------------------------------------------------------
+('[{"key": "super-steve-showdown__steve-showdown-singles", "placing": 17, "seed": 35, "dq": false}, {"key": "charge-shot-series-3-35-prize-pot__charge-shot-series-3", "placing": 49, "seed": 54, "dq": false}, {"key": "kurogami-smash__kurogami-smash-1v1", "placing": 65, "seed": 75, "dq": false}, {"key": "mystic-tgb-hospitalet-online-tournament-1__ultimate-singles-2", "placing": 65, "seed": 82, "dq": false}, {"key": "mystic-tgb-magaluf-online-tournament-160__ultimate-singles", "placing": 65, "seed": 89, "dq": false}, {"key": "gouken-saga-3-subtember-showdown__gouken-saga-singles", "placing": 17, "seed": 22, "dq": false}, {"key": "mystic-tgb-maremagnum-online-tournament-160-1__ultimate-singles", "placing": 33, "seed": 85, "dq": false}, {"key": "mystic-tgb-gran-turia-online-tournament-160__ultimate-singles", "placing": 49, "seed": 78, "dq": false}, {"key": "mystic-tgb-pla-a-centre-online-tournament__ultimate-singles", "placing": 33, "seed": 51, "dq": false}, {"key": "housing-14__ultimate-singles", "placing": 65, "seed": 66, "dq": false}, {"key": "nayru-s-awakening-2-1__ultimate-singles", "placing": 49, "seed": 43, "dq": false}, {"key": "comarca-smashworld-6__ultimate-singles", "placing": 33, "seed": 35, "dq": false}, {"key": "salvalhalla__ultimate-singles", "placing": 33, "seed": 39, "dq": false}, {"key": "save-unreal__ultimate-singles", "placing": 33, "seed": 51, "dq": false}]',)
+-----------------------------------------------------------
+Torneo: super-steve-showdown__steve-showdown-singles
+Nº de entrants: 45
+Seed: 35
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: charge-shot-series-3-35-prize-pot__charge-shot-series-3
+Nº de entrants: 64
+Seed: 54
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: kurogami-smash__kurogami-smash-1v1
+Nº de entrants: 103
+Seed: 75
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: mystic-tgb-hospitalet-online-tournament-1__ultimate-singles-2
+Nº de entrants: 92
+Seed: 82
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: mystic-tgb-magaluf-online-tournament-160__ultimate-singles
+Nº de entrants: 96
+Seed: 89
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: gouken-saga-3-subtember-showdown__gouken-saga-singles
+Nº de entrants: 32
+Seed: 22
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: mystic-tgb-maremagnum-online-tournament-160-1__ultimate-singles
+Nº de entrants: 103
+Seed: 85
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: mystic-tgb-gran-turia-online-tournament-160__ultimate-singles
+Nº de entrants: 95
+Seed: 78
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: mystic-tgb-pla-a-centre-online-tournament__ultimate-singles
+Nº de entrants: 60
+Seed: 51
+Placing: 33
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+Torneo: housing-14__ultimate-singles
+Nº de entrants: 74
+Seed: 66
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: nayru-s-awakening-2-1__ultimate-singles
+Nº de entrants: 64
+Seed: 43
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: comarca-smashworld-6__ultimate-singles
+Nº de entrants: 46
+Seed: 35
+Placing: 33
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+Torneo: salvalhalla__ultimate-singles
+Nº de entrants: 43
+Seed: 39
+Placing: 33
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+Torneo: save-unreal__ultimate-singles
+Nº de entrants: 64
+Seed: 51
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: ArekuSM
+-----------------------------------------------------------
+('[{"key": "dual-smash-7__dual-smash-singles-1", "placing": 33, "seed": 59, "dq": false}, {"key": "dual-smash-8-arcadian-ed__dual-smash-singles", "placing": 13, "seed": 14, "dq": false}, {"key": "dual-smash-9__dual-smash-singles", "placing": 17, "seed": 27, "dq": false}, {"key": "dual-smash-x__dual-smash-singles", "placing": 49, "seed": 78, "dq": false}, {"key": "vgcomic-2019__vgc-ultimate-singles-1vs1", "placing": 33, "seed": 52, "dq": false}, {"key": "ultimate-myrtia-12__ultimate-singles", "placing": 33, "seed": 30, "dq": false}, {"key": "beesmash__ultimate-singles", "placing": 33, "seed": 43, "dq": false}, {"key": "dual-smash-12__dual-smash-singles", "placing": 17, "seed": 27, "dq": false}, {"key": "ultimate-planet-1-5__utimate-planet-singles", "placing": 33, "seed": 30, "dq": false}, {"key": "beesmash-3__ultimate-singles", "placing": 33, "seed": 47, "dq": false}, {"key": "torneo-smash-la-comarcon-en-casa-1__ultimate-singles", "placing": 17, "seed": 10, "dq": false}, {"key": "comarca-smashworld-2__ultimate-singles", "placing": 17, "seed": 19, "dq": true}, {"key": "comarca-smashworld__ultimate-singles", "placing": 17, "seed": 26, "dq": false}]',)
+-----------------------------------------------------------
+Torneo: dual-smash-7__dual-smash-singles-1
+Offline tournament, ignoring it
+Torneo: dual-smash-8-arcadian-ed__dual-smash-singles
+Offline tournament, ignoring it
+Torneo: dual-smash-9__dual-smash-singles
+Offline tournament, ignoring it
+Torneo: dual-smash-x__dual-smash-singles
+Offline tournament, ignoring it
+Torneo: vgcomic-2019__vgc-ultimate-singles-1vs1
+Offline tournament, ignoring it
+Torneo: ultimate-myrtia-12__ultimate-singles
+Offline tournament, ignoring it
+Torneo: beesmash__ultimate-singles
+Offline tournament, ignoring it
+Torneo: dual-smash-12__dual-smash-singles
+Offline tournament, ignoring it
+Torneo: ultimate-planet-1-5__utimate-planet-singles
+Offline tournament, ignoring it
+Torneo: beesmash-3__ultimate-singles
+Offline tournament, ignoring it
+Torneo: torneo-smash-la-comarcon-en-casa-1__ultimate-singles
+Nº de entrants: 34
+Seed: 10
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: comarca-smashworld__ultimate-singles
+Nº de entrants: 38
+Seed: 26
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: Altair
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: Sungmin
+Sungmin
+Player not found! 
+ Setting seed random
+-----------------------------------------------------------
+Player: Edderkops
+-----------------------------------------------------------
+('[{"key": "dual-smash-2__dual-smash-1-singles", "placing": 33, "seed": 48, "dq": false}, {"key": "dual-smash-4__dual-smash-singles", "placing": 25, "seed": 31, "dq": false}, {"key": "9-sal-n-del-manga-de-alicante-smash-ultimate__super-smash-bros-ultimate-1vs1", "placing": 9, "seed": 13, "dq": false}, {"key": "dual-smash-5__dual-smash-singles", "placing": 13, "seed": 18, "dq": false}, {"key": "dual-smash-7__dual-smash-singles-1", "placing": 25, "seed": 21, "dq": false}, {"key": "dual-smash-8-arcadian-ed__dual-smash-singles", "placing": 7, "seed": 9, "dq": false}, {"key": "back-throw-wins-3__singles", "placing": 17, "seed": 33, "dq": false}, {"key": "dual-smash-9__dual-smash-singles", "placing": 7, "seed": 21, "dq": false}, {"key": "jmsf-8-60-prize-pool-free-entry__ultimate-singles", "placing": 129, "seed": 141, "dq": true}, {"key": "wi-fi-tourney-jwt-32-20-prize-pool-free-entry__ultimate-singles", "placing": 33, "seed": 44, "dq": false}, {"key": "dual-smash-x__dual-smash-singles", "placing": 25, "seed": 37, "dq": false}, {"key": "smash-legends-3-the-finale-1__smash-legends-3-the-finale", "placing": 257, "seed": 292, "dq": true}, {"key": "beesmash__ultimate-singles", "placing": 17, "seed": 12, "dq": false}, {"key": "dual-smash-12__dual-smash-singles", "placing": 13, "seed": 16, "dq": false}, {"key": "beesmash-3__ultimate-singles", "placing": 33, "seed": 31, "dq": false}, {"key": "the-winner-techs-it-all-1-50-prize-pot-2__ultimate-singles", "placing": 65, "seed": 78, "dq": false}, {"key": "housing-4__ultimate-singles", "placing": 17, "seed": 17, "dq": false}, {"key": "the-tron-legacy-tournament-9__singles", "placing": 13, "seed": 5, "dq": false}, {"key": "the-tron-legacy-tournament-10__singles", "placing": 7, "seed": 6, "dq": false}, {"key": "housing-7__ultimate-singles", "placing": 17, "seed": 11, "dq": false}, {"key": "torneo-smash-la-comarcon-en-casa-1__ultimate-singles", "placing": 5, "seed": 2, "dq": false}, {"key": "open-destinty__open-destiny", "placing": 2, "seed": 2, "dq": false}, {"key": "streamers-saga__smash-1-vs-1", "placing": 9, "seed": 14, "dq": false}, {"key": "comarca-smashworld-4__ultimate-singles", "placing": 9, "seed": 10, "dq": false}, {"key": "housing-12__ultimate-singles", "placing": 13, "seed": 5, "dq": false}, {"key": "comarca-smashworld__ultimate-singles", "placing": 25, "seed": 14, "dq": false}, {"key": "comarca-smashworld-6__ultimate-singles", "placing": 17, "seed": 12, "dq": false}, {"key": "grand-open-sbs-3__ultimate-singles-grand-open", "placing": 65, "seed": 56, "dq": false}, {"key": "comarca-smashworld-7-2020-s-finale__ultimate-singles", "placing": 13, "seed": 10, "dq": false}]',)
+-----------------------------------------------------------
+Torneo: dual-smash-2__dual-smash-1-singles
+Offline tournament, ignoring it
+Torneo: dual-smash-4__dual-smash-singles
+Offline tournament, ignoring it
+Torneo: 9-sal-n-del-manga-de-alicante-smash-ultimate__super-smash-bros-ultimate-1vs1
+Offline tournament, ignoring it
+Torneo: dual-smash-5__dual-smash-singles
+Offline tournament, ignoring it
+Torneo: dual-smash-7__dual-smash-singles-1
+Offline tournament, ignoring it
+Torneo: dual-smash-8-arcadian-ed__dual-smash-singles
+Offline tournament, ignoring it
+Torneo: back-throw-wins-3__singles
+Offline tournament, ignoring it
+Torneo: dual-smash-9__dual-smash-singles
+Offline tournament, ignoring it
+DQ, ignoring tournament
+Torneo: wi-fi-tourney-jwt-32-20-prize-pool-free-entry__ultimate-singles
+Nº de entrants: 107
+Seed: 44
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: dual-smash-x__dual-smash-singles
+Offline tournament, ignoring it
+DQ, ignoring tournament
+Torneo: beesmash__ultimate-singles
+Offline tournament, ignoring it
+Torneo: dual-smash-12__dual-smash-singles
+Offline tournament, ignoring it
+Torneo: beesmash-3__ultimate-singles
+Offline tournament, ignoring it
+Torneo: the-winner-techs-it-all-1-50-prize-pot-2__ultimate-singles
+Nº de entrants: 139
+Seed: 78
+Placing: 65
+Value: 0.5
+Multiplier: 2
+Points: 1.0
+-----------------------------------------------------------
+Torneo: housing-4__ultimate-singles
+Nº de entrants: 74
+Seed: 17
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: the-tron-legacy-tournament-9__singles
+Nº de entrants: 62
+Seed: 5
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: the-tron-legacy-tournament-10__singles
+Nº de entrants: 59
+Seed: 6
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: housing-7__ultimate-singles
+Nº de entrants: 69
+Seed: 11
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: torneo-smash-la-comarcon-en-casa-1__ultimate-singles
+Nº de entrants: 34
+Seed: 2
+Placing: 5
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: open-destinty__open-destiny
+Nº de entrants: 9
+Seed: 2
+Placing: 2
+Torneo: streamers-saga__smash-1-vs-1
+Nº de entrants: 19
+Seed: 14
+Placing: 9
+Value: 3
+Multiplier: 0.5
+Points: 1.5
+-----------------------------------------------------------
+Torneo: comarca-smashworld-4__ultimate-singles
+Nº de entrants: 26
+Seed: 10
+Placing: 9
+Value: 3
+Multiplier: 0.5
+Points: 1.5
+-----------------------------------------------------------
+Torneo: housing-12__ultimate-singles
+Nº de entrants: 38
+Seed: 5
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: comarca-smashworld__ultimate-singles
+Nº de entrants: 38
+Seed: 14
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: comarca-smashworld-6__ultimate-singles
+Nº de entrants: 46
+Seed: 12
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: grand-open-sbs-3__ultimate-singles-grand-open
+Nº de entrants: 121
+Seed: 56
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: comarca-smashworld-7-2020-s-finale__ultimate-singles
+Nº de entrants: 34
+Seed: 10
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: Shaggy
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: Ryuya
+Ryuya
+Player not found! 
+ Setting seed random
+-----------------------------------------------------------
+Player: SkylArt
+-----------------------------------------------------------
+('[{"key": "the-best-has-yet-to-come-dx__ultimate-singles", "placing": 33, "seed": 40, "dq": false}, {"key": "housing-1__ultimate-singles", "placing": 33, "seed": 80, "dq": false}, {"key": "housing-2__ultimate-singles", "placing": 17, "seed": 46, "dq": false}, {"key": "the-winner-techs-it-all-1-50-prize-pot-2__ultimate-singles", "placing": 33, "seed": 115, "dq": false}, {"key": "housing-3__ultimate-singles", "placing": 9, "seed": 32, "dq": false}, {"key": "housing-4__ultimate-singles", "placing": 9, "seed": 16, "dq": false}, {"key": "back-throw-wins-5__singles", "placing": 25, "seed": 31, "dq": false}, {"key": "housing-5__ultimate-singles", "placing": 9, "seed": 11, "dq": false}, {"key": "back-throw-wins-6__singles", "placing": 33, "seed": 45, "dq": false}, {"key": "shuriken-storm-2__singles", "placing": 65, "seed": 54, "dq": false}, {"key": "housing-6__ultimate-singles", "placing": 9, "seed": 13, "dq": false}, {"key": "housing-7__ultimate-singles", "placing": 33, "seed": 12, "dq": false}, {"key": "the-winner-techs-it-all-2-50-prize-pot__ultimate-singles", "placing": 33, "seed": 66, "dq": false}, {"key": "housing-8__ultimate-singles", "placing": 9, "seed": 14, "dq": false}, {"key": "housing-9__ultimate-singles", "placing": 9, "seed": 14, "dq": false}, {"key": "ruleta-smash-1__ruleta-smash", "placing": 9, "seed": 9, "dq": false}, {"key": "charge-shot-series-3-35-prize-pot__charge-shot-series-3", "placing": 33, "seed": 17, "dq": false}, {"key": "housing-10__ultimate-singles", "placing": 17, "seed": 12, "dq": false}, {"key": "housing-11__ultimate-singles", "placing": 9, "seed": 16, "dq": false}, {"key": "the-tron-legacy-tournament-15-final__singles", "placing": 17, "seed": 22, "dq": false}, {"key": "housing-12__ultimate-singles", "placing": 4, "seed": 4, "dq": false}, {"key": "housing-13-el-ltimo-housing__ultimate-singles", "placing": 25, "seed": 14, "dq": false}, {"key": "charliessb-4-edition__charliessb-4-edition", "placing": 13, "seed": 22, "dq": false}, {"key": "the-winner-techs-it-all-3-50-prize-pot__ultimate-singles", "placing": 49, "seed": 79, "dq": false}, {"key": "mini-housing-2__ultimate-singles", "placing": 17, "seed": 8, "dq": false}, {"key": "super-smash-galaxy-500-pot__ultimate-singles-500-pot", "placing": 257, "seed": 352, "dq": false}, {"key": "fcw-38__ultimate-singles", "placing": 33, "seed": 55, "dq": false}, {"key": "steal-the-show-5-heist-in-smashville-2__ultimate-singles", "placing": 193, "seed": 258, "dq": false}, {"key": "20-prize-pool-medical-series-27-singles-and-doubles-tournament__ultimate-singles", "placing": 65, "seed": 46, "dq": true}, {"key": "mammoth-s-glitched-open-series__mammoth-s-glitched-open-singles-bracket-2", "placing": 33, "seed": 189, "dq": false}, {"key": "replay-that-clip-episode-4-50-prize-pool__replay-that-clip-episode-4-50-prize-pool", "placing": 193, "seed": 258, "dq": false}, {"key": "t7-s-monthly-smash-ultimate-tournaments-1-singles__smash-bros-ultimate-singles", "placing": 131, "seed": 61, "dq": true}, {"key": "frame-perfect-100-prize-pool__smash-singles", "placing": 33, "seed": 24, "dq": false}, {"key": "charge-shot-series-1__charge-shot-series-1", "placing": 4, "seed": 16, "dq": false}, {"key": "gouken-legacy__gouken-legacy-singles", "placing": 49, "seed": 118, "dq": false}, {"key": "european-bootcamp-midweek-drills-100-30-prize__singles", "placing": 33, "seed": 84, "dq": false}, {"key": "kurogami-smash__kurogami-smash-1v1", "placing": 33, "seed": 19, "dq": false}, {"key": "revienta-al-random-2__random-singles-1v1", "placing": 25, "seed": 44, "dq": false}, {"key": "gouken-saga-3-subtember-showdown__gouken-saga-singles", "placing": 9, "seed": 17, "dq": false}, {"key": "mystic-tgb-pla-a-centre-online-tournament__ultimate-singles", "placing": 17, "seed": 33, "dq": false}, {"key": "housing-14__ultimate-singles", "placing": 13, "seed": 22, "dq": false}, {"key": "100-zapzone-tournament-2-1__ultimate-singles", "placing": 129, "seed": 126, "dq": false}, {"key": "ruleta-smash-2__ruleta-smash", "placing": 17, "seed": 5, "dq": false}, {"key": "salvalhalla__ultimate-singles", "placing": 9, "seed": 24, "dq": false}, {"key": "grand-open-sbs-3__ultimate-singles-grand-open", "placing": 33, "seed": 43, "dq": false}, {"key": "mini-housing-5__ultimate-singles", "placing": 49, "seed": 15, "dq": false}, {"key": "reload-weeklies-6__ultimate-singles", "placing": 13, "seed": 20, "dq": false}]',)
+-----------------------------------------------------------
+Torneo: the-best-has-yet-to-come-dx__ultimate-singles
+Offline tournament, ignoring it
+Torneo: housing-1__ultimate-singles
+Nº de entrants: 100
+Seed: 80
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: housing-2__ultimate-singles
+Nº de entrants: 77
+Seed: 46
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: the-winner-techs-it-all-1-50-prize-pot-2__ultimate-singles
+Nº de entrants: 139
+Seed: 115
+Placing: 33
+Value: 1
+Multiplier: 2
+Points: 2
+-----------------------------------------------------------
+Torneo: housing-3__ultimate-singles
+Nº de entrants: 75
+Seed: 32
+Placing: 9
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: housing-4__ultimate-singles
+Nº de entrants: 74
+Seed: 16
+Placing: 9
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: back-throw-wins-5__singles
+Nº de entrants: 64
+Seed: 31
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: housing-5__ultimate-singles
+Nº de entrants: 83
+Seed: 11
+Placing: 9
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: back-throw-wins-6__singles
+Nº de entrants: 100
+Seed: 45
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: shuriken-storm-2__singles
+Nº de entrants: 103
+Seed: 54
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: housing-6__ultimate-singles
+Nº de entrants: 91
+Seed: 13
+Placing: 9
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: housing-7__ultimate-singles
+Nº de entrants: 69
+Seed: 12
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: the-winner-techs-it-all-2-50-prize-pot__ultimate-singles
+Nº de entrants: 189
+Seed: 66
+Placing: 33
+Value: 1
+Multiplier: 2
+Points: 2
+-----------------------------------------------------------
+Torneo: housing-8__ultimate-singles
+Nº de entrants: 71
+Seed: 14
+Placing: 9
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: housing-9__ultimate-singles
+Nº de entrants: 62
+Seed: 14
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: ruleta-smash-1__ruleta-smash
+Nº de entrants: 28
+Seed: 9
+Placing: 9
+Value: 3
+Multiplier: 0.5
+Points: 1.5
+-----------------------------------------------------------
+Torneo: charge-shot-series-3-35-prize-pot__charge-shot-series-3
+Nº de entrants: 64
+Seed: 17
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: housing-10__ultimate-singles
+Nº de entrants: 55
+Seed: 12
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: housing-11__ultimate-singles
+Nº de entrants: 60
+Seed: 16
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: the-tron-legacy-tournament-15-final__singles
+Nº de entrants: 38
+Seed: 22
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: housing-12__ultimate-singles
+Nº de entrants: 38
+Seed: 4
+Placing: 4
+Value: 5
+Multiplier: 0.75
+Points: 3.75
+-----------------------------------------------------------
+Torneo: housing-13-el-ltimo-housing__ultimate-singles
+Nº de entrants: 75
+Seed: 14
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: charliessb-4-edition__charliessb-4-edition
+Nº de entrants: 76
+Seed: 22
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: the-winner-techs-it-all-3-50-prize-pot__ultimate-singles
+Nº de entrants: 133
+Seed: 79
+Placing: 49
+Value: 1
+Multiplier: 2
+Points: 2
+-----------------------------------------------------------
+Torneo: mini-housing-2__ultimate-singles
+Nº de entrants: 32
+Seed: 8
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: super-smash-galaxy-500-pot__ultimate-singles-500-pot
+Nº de entrants: 1461
+Seed: 352
+Placing: 257
+Value: 0.125
+Multiplier: 8
+Points: 1.0
+-----------------------------------------------------------
+Torneo: fcw-38__ultimate-singles
+Nº de entrants: 81
+Seed: 55
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: steal-the-show-5-heist-in-smashville-2__ultimate-singles
+Nº de entrants: 605
+Seed: 258
+Placing: 193
+Value: 0.25
+Multiplier: 8
+Points: 2.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: mammoth-s-glitched-open-series__mammoth-s-glitched-open-singles-bracket-2
+Nº de entrants: 193
+Seed: 189
+Placing: 33
+Value: 1
+Multiplier: 2
+Points: 2
+-----------------------------------------------------------
+Torneo: replay-that-clip-episode-4-50-prize-pool__replay-that-clip-episode-4-50-prize-pool
+Nº de entrants: 338
+Seed: 258
+Placing: 193
+Value: 0.25
+Multiplier: 4
+Points: 1.0
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: frame-perfect-100-prize-pool__smash-singles
+Nº de entrants: 99
+Seed: 24
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: charge-shot-series-1__charge-shot-series-1
+Nº de entrants: 58
+Seed: 16
+Placing: 4
+Value: 5
+Multiplier: 0.75
+Points: 3.75
+-----------------------------------------------------------
+Torneo: gouken-legacy__gouken-legacy-singles
+Nº de entrants: 169
+Seed: 118
+Placing: 49
+Value: 1
+Multiplier: 2
+Points: 2
+-----------------------------------------------------------
+Torneo: european-bootcamp-midweek-drills-100-30-prize__singles
+Nº de entrants: 119
+Seed: 84
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: kurogami-smash__kurogami-smash-1v1
+Nº de entrants: 103
+Seed: 19
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: revienta-al-random-2__random-singles-1v1
+Nº de entrants: 54
+Seed: 44
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: gouken-saga-3-subtember-showdown__gouken-saga-singles
+Nº de entrants: 32
+Seed: 17
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: mystic-tgb-pla-a-centre-online-tournament__ultimate-singles
+Nº de entrants: 60
+Seed: 33
+Placing: 17
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+Torneo: housing-14__ultimate-singles
+Nº de entrants: 74
+Seed: 22
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: 100-zapzone-tournament-2-1__ultimate-singles
+Nº de entrants: 227
+Seed: 126
+Placing: 129
+Value: 0.25
+Multiplier: 2
+Points: 0.5
+-----------------------------------------------------------
+Torneo: ruleta-smash-2__ruleta-smash
+Nº de entrants: 22
+Seed: 5
+Placing: 17
+Value: 2
+Multiplier: 0.5
+Points: 1.0
+-----------------------------------------------------------
+Torneo: salvalhalla__ultimate-singles
+Nº de entrants: 43
+Seed: 24
+Placing: 9
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+Torneo: grand-open-sbs-3__ultimate-singles-grand-open
+Nº de entrants: 121
+Seed: 43
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: mini-housing-5__ultimate-singles
+Nº de entrants: 51
+Seed: 15
+Placing: 49
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+Torneo: reload-weeklies-6__ultimate-singles
+Nº de entrants: 36
+Seed: 20
+Placing: 13
+Value: 3
+Multiplier: 0.75
+Points: 2.25
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: Papote
+-----------------------------------------------------------
+('[{"key": "charliessb-3-edition__charlievid-1", "placing": 65, "seed": 115, "dq": true}, {"key": "back-throw-wins-6__singles", "placing": 65, "seed": 100, "dq": false}, {"key": "shuriken-storm-2__singles", "placing": 97, "seed": 93, "dq": false}, {"key": "smash-realm-online__smash-realm-online-9", "placing": 65, "seed": 69, "dq": true}, {"key": "housing-7__ultimate-singles", "placing": 49, "seed": 66, "dq": false}, {"key": "housing-8__ultimate-singles", "placing": 33, "seed": 47, "dq": false}, {"key": "back-throw-wins-7__singles", "placing": 13, "seed": 43, "dq": false}, {"key": "housing-9__ultimate-singles", "placing": 33, "seed": 22, "dq": false}, {"key": "comarca-smashworld-5__ultimate-singles", "placing": 7, "seed": 15, "dq": false}, {"key": "housing-gimmick-one-match-character__one-match-character", "placing": 7, "seed": 15, "dq": false}, {"key": "stars-stage__stars-stage-singles", "placing": 33, "seed": 35, "dq": false}, {"key": "comarca-smashworld-6__ultimate-singles", "placing": 4, "seed": 21, "dq": false}, {"key": "save-unreal__ultimate-singles", "placing": 49, "seed": 19, "dq": true}, {"key": "grand-open-sbs-3__ultimate-singles-grand-open", "placing": 65, "seed": 58, "dq": true}, {"key": "big-blue-house-ultimate__ultimate-singles", "placing": 9, "seed": 24, "dq": false}, {"key": "comarca-smashworld-7-2020-s-finale__ultimate-singles", "placing": 7, "seed": 14, "dq": false}]',)
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: back-throw-wins-6__singles
+Nº de entrants: 100
+Seed: 100
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: shuriken-storm-2__singles
+Nº de entrants: 103
+Seed: 93
+Placing: 97
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: housing-7__ultimate-singles
+Nº de entrants: 69
+Seed: 66
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: housing-8__ultimate-singles
+Nº de entrants: 71
+Seed: 47
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: back-throw-wins-7__singles
+Nº de entrants: 66
+Seed: 43
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: housing-9__ultimate-singles
+Nº de entrants: 62
+Seed: 22
+Placing: 33
+Value: 1
+Multiplier: 0.75
+Points: 0.75
+-----------------------------------------------------------
+Torneo: comarca-smashworld-5__ultimate-singles
+Nº de entrants: 32
+Seed: 15
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: housing-gimmick-one-match-character__one-match-character
+Nº de entrants: 55
+Seed: 15
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+Torneo: stars-stage__stars-stage-singles
+Nº de entrants: 64
+Seed: 35
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: comarca-smashworld-6__ultimate-singles
+Nº de entrants: 46
+Seed: 21
+Placing: 4
+Value: 5
+Multiplier: 0.75
+Points: 3.75
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: big-blue-house-ultimate__ultimate-singles
+Nº de entrants: 31
+Seed: 24
+Placing: 9
+Value: 3
+Multiplier: 0.5
+Points: 1.5
+-----------------------------------------------------------
+Torneo: comarca-smashworld-7-2020-s-finale__ultimate-singles
+Nº de entrants: 34
+Seed: 14
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: Proboss
+More than one player found! 
+ Asking for ID
+-----------------------------------------------------------
+Player: Geloon
+-----------------------------------------------------------
+('[{"key": "ultimate-myrtia-11__ultimate-singles", "placing": 25, "seed": 36, "dq": false}, {"key": "ultimate-myrtia-13__ultimate-singles", "placing": 25, "seed": 24, "dq": false}, {"key": "winter-freak-2020-smash-ultimate__ultimate-singles", "placing": 17, "seed": 14, "dq": false}, {"key": "la-cuarentena-de-vidad__ultimate-singles", "placing": 2, "seed": 6, "dq": false}, {"key": "housing-2__ultimate-singles", "placing": 13, "seed": 37, "dq": false}, {"key": "the-winner-techs-it-all-1-50-prize-pot-2__ultimate-singles", "placing": 17, "seed": 70, "dq": false}, {"key": "no-money-4-tech-v__ultimate-singles", "placing": 4, "seed": 24, "dq": false}, {"key": "alhambrazos__ultimate-singles", "placing": 25, "seed": 21, "dq": true}, {"key": "housing-3__ultimate-singles", "placing": 17, "seed": 22, "dq": false}, {"key": "charliessb-3-edition__charlievid-1", "placing": 65, "seed": 40, "dq": false}, {"key": "back-throw-wins-5__singles", "placing": 49, "seed": 48, "dq": false}, {"key": "back-throw-wins-6__singles", "placing": 13, "seed": 53, "dq": false}, {"key": "shuriken-storm-2__singles", "placing": 33, "seed": 55, "dq": false}, {"key": "housing-7__ultimate-singles", "placing": 17, "seed": 19, "dq": false}, {"key": "the-winner-techs-it-all-2-50-prize-pot__ultimate-singles", "placing": 49, "seed": 96, "dq": false}, {"key": "front-runners-online-3__ultimate-singles", "placing": 17, "seed": 44, "dq": false}, {"key": "smash-majlis-x-european-bootcamp-delay-war__online-singles", "placing": 97, "seed": 78, "dq": false}, {"key": "back-throw-wins-7__singles", "placing": 17, "seed": 27, "dq": false}, {"key": "comarca-smashworld-4__ultimate-singles", "placing": 3, "seed": 5, "dq": false}, {"key": "charge-shot-series-3-35-prize-pot__charge-shot-series-3", "placing": 13, "seed": 25, "dq": false}, {"key": "breakpoint-ultimate-two__breakpoint-ultimate-two-online-cup", "placing": 33, "seed": 44, "dq": false}, {"key": "the-smash-intercontinental-european-qualifier-100__smash-intercontinental-europe-1", "placing": 129, "seed": 109, "dq": true}, {"key": "housing-11__ultimate-singles", "placing": 49, "seed": 22, "dq": true}, {"key": "battle-for-the-island__singles", "placing": 49, "seed": 3, "dq": true}, {"key": "starman-last-chance-qualifier__singles", "placing": 25, "seed": 20, "dq": false}, {"key": "revienta-al-random__random-singles-1v1", "placing": 33, "seed": 32, "dq": true}, {"key": "comarca-smashworld__ultimate-singles", "placing": 25, "seed": 20, "dq": true}, {"key": "kurogami-smash__kurogami-smash-1v1", "placing": 25, "seed": 29, "dq": false}, {"key": "mystic-tgb-hospitalet-online-tournament-1__ultimate-singles-2", "placing": 25, "seed": 51, "dq": false}, {"key": "mystic-tgb-magaluf-online-tournament-160__ultimate-singles", "placing": 65, "seed": 43, "dq": true}, {"key": "mystic-tgb-maremagnum-online-tournament-160-1__ultimate-singles", "placing": 97, "seed": 40, "dq": true}, {"key": "housing-14__ultimate-singles", "placing": 33, "seed": 25, "dq": false}, {"key": "coca-cola-breakpoint-ultimate-finale__super-smash-bros-ultimate-singles", "placing": 207, "seed": 195, "dq": true}, {"key": "stars-stage__stars-stage-singles", "placing": 9, "seed": 17, "dq": false}, {"key": "comarca-smashworld-7-2020-s-finale__ultimate-singles", "placing": 7, "seed": 7, "dq": false}]',)
+-----------------------------------------------------------
+Torneo: ultimate-myrtia-11__ultimate-singles
+Offline tournament, ignoring it
+Torneo: ultimate-myrtia-13__ultimate-singles
+Offline tournament, ignoring it
+Torneo: winter-freak-2020-smash-ultimate__ultimate-singles
+Offline tournament, ignoring it
+Torneo: la-cuarentena-de-vidad__ultimate-singles
+Nº de entrants: 33
+Seed: 6
+Placing: 2
+Value: 8
+Multiplier: 0.75
+Points: 6.0
+-----------------------------------------------------------
+Torneo: housing-2__ultimate-singles
+Nº de entrants: 77
+Seed: 37
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: the-winner-techs-it-all-1-50-prize-pot-2__ultimate-singles
+Nº de entrants: 139
+Seed: 70
+Placing: 17
+Value: 2
+Multiplier: 2
+Points: 4
+-----------------------------------------------------------
+Torneo: no-money-4-tech-v__ultimate-singles
+Offline tournament, ignoring it
+DQ, ignoring tournament
+Torneo: housing-3__ultimate-singles
+Nº de entrants: 75
+Seed: 22
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: charliessb-3-edition__charlievid-1
+Nº de entrants: 127
+Seed: 40
+Placing: 65
+Value: 0.5
+Multiplier: 1
+Points: 0.5
+-----------------------------------------------------------
+Torneo: back-throw-wins-5__singles
+Nº de entrants: 64
+Seed: 48
+Placing: 49
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: back-throw-wins-6__singles
+Nº de entrants: 100
+Seed: 53
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: shuriken-storm-2__singles
+Nº de entrants: 103
+Seed: 55
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+Torneo: housing-7__ultimate-singles
+Nº de entrants: 69
+Seed: 19
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: the-winner-techs-it-all-2-50-prize-pot__ultimate-singles
+Nº de entrants: 189
+Seed: 96
+Placing: 49
+Value: 1
+Multiplier: 2
+Points: 2
+-----------------------------------------------------------
+Torneo: front-runners-online-3__ultimate-singles
+Nº de entrants: 83
+Seed: 44
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: smash-majlis-x-european-bootcamp-delay-war__online-singles
+Nº de entrants: 200
+Seed: 78
+Placing: 97
+Value: 0.5
+Multiplier: 2
+Points: 1.0
+-----------------------------------------------------------
+Torneo: back-throw-wins-7__singles
+Nº de entrants: 66
+Seed: 27
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: comarca-smashworld-4__ultimate-singles
+Nº de entrants: 26
+Seed: 5
+Placing: 3
+Value: 6
+Multiplier: 0.5
+Points: 3.0
+-----------------------------------------------------------
+Torneo: charge-shot-series-3-35-prize-pot__charge-shot-series-3
+Nº de entrants: 64
+Seed: 25
+Placing: 13
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: breakpoint-ultimate-two__breakpoint-ultimate-two-online-cup
+Nº de entrants: 137
+Seed: 44
+Placing: 33
+Value: 1
+Multiplier: 2
+Points: 2
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: starman-last-chance-qualifier__singles
+Nº de entrants: 47
+Seed: 20
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: kurogami-smash__kurogami-smash-1v1
+Nº de entrants: 103
+Seed: 29
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: mystic-tgb-hospitalet-online-tournament-1__ultimate-singles-2
+Nº de entrants: 92
+Seed: 51
+Placing: 25
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+DQ, ignoring tournament
+DQ, ignoring tournament
+Torneo: housing-14__ultimate-singles
+Nº de entrants: 74
+Seed: 25
+Placing: 33
+Value: 1
+Multiplier: 1
+Points: 1
+-----------------------------------------------------------
+DQ, ignoring tournament
+Torneo: stars-stage__stars-stage-singles
+Nº de entrants: 64
+Seed: 17
+Placing: 9
+Value: 3
+Multiplier: 1
+Points: 3
+-----------------------------------------------------------
+Torneo: comarca-smashworld-7-2020-s-finale__ultimate-singles
+Nº de entrants: 34
+Seed: 7
+Placing: 7
+Value: 4
+Multiplier: 0.75
+Points: 3.0
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: Psyduck
+-----------------------------------------------------------
+('[{"key": "stars-stage__stars-stage-singles", "placing": 17, "seed": 62, "dq": false}, {"key": "comarca-smashworld-7-2020-s-finale__ultimate-singles", "placing": 25, "seed": 31, "dq": false}]',)
+-----------------------------------------------------------
+Torneo: stars-stage__stars-stage-singles
+Nº de entrants: 64
+Seed: 62
+Placing: 17
+Value: 2
+Multiplier: 1
+Points: 2
+-----------------------------------------------------------
+Torneo: comarca-smashworld-7-2020-s-finale__ultimate-singles
+Nº de entrants: 34
+Seed: 31
+Placing: 25
+Value: 2
+Multiplier: 0.75
+Points: 1.5
+-----------------------------------------------------------
+-----------------------------------------------------------
+Player: Grimm
+Incorrect ID!
+Setting random seed
+-----------------------------------------------------------
+Player: Diedan
+Incorrect ID!
+Setting random seed
+-----------------------------------------------------------
+Player: Blake
+Incorrect ID!
+Setting random seed
+-----------------------------------------------------------
+Player: Trail
+Incorrect ID!
+Setting random seed
+-----------------------------------------------------------
+Player: Pipo
+Incorrect ID!
+Setting random seed
+-----------------------------------------------------------
+Player: Alejo
+Incorrect ID!
+Setting random seed
+-----------------------------------------------------------
+Player: Instinct
+Incorrect ID!
+Setting random seed
+-----------------------------------------------------------
+Player: Rubik
+Incorrect ID!
+Setting random seed
+-----------------------------------------------------------
+Player: Charlie
+Incorrect ID!
+Setting random seed
+-----------------------------------------------------------
+Player: Altair
+Incorrect ID!
+Setting random seed
+-----------------------------------------------------------
+Player: Shaggy
+Incorrect ID!
+Setting random seed
+-----------------------------------------------------------
+Player: Proboss
+Incorrect ID!
+Setting random seed
+Seeding:
+{'[DR/TSP] JAVIELRICO': 2.9357142857142855, 'DAC power': 2.777227722772277, 'Geloon': 2.272727272727273, 'Papote': 1.8333333333333333, 'SkylArt': 1.8295454545454546, 'Fistro': 1.8039473684210525, 'Edderkops': 1.8035714285714286, 'Psyduck': 1.75, 'Jaimichu': 1.6538461538461537, 'Snowwy': 1.6538461538461537, 'ArekuSM': 1.5, 'cocacola': 1.0, 'PixelR_': 0.9583333333333334, 'KalJM': 0.95, 'SirJohn': 0.875, 'illo': 0, 'Manugorpi': 0, 'NIKKERU': 0, 'Sungmin': 0, 'Ryuya': 0, 'Grimm': 0, 'Diedan': 0, 'Blake': 0, 'Trail': 0, 'Pipo': 0, 'Alejo': 0, 'Instinct': 0, 'Rubik': 0, 'Charlie': 0, 'Altair': 0, 'Shaggy': 0, 'Proboss': 0}
