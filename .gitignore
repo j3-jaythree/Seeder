@@ -136,3 +136,6 @@ dmypy.json
 
 #Backup files
 *.py~
+
+#logs
+log.txt
