@@ -3,6 +3,7 @@ import csv
 import json as js
 import sys
 import tkinter as tk
+import tkinter.simpledialog
 
 
 
@@ -18,18 +19,10 @@ class cfile:
         self.f.close()
     
         
-id
+
 
     
 #GUI
-def openNewWindow(tag):
-    newWindow = tk.Toplevel(root)
-    newWindow.geometry("150x100")
-    tk.Label(newWindow,text=f"Insert the ID of the player {tag}").pack()
-    en_id = tk.Entry(newWindow).pack()
-    btn_id = tk.Button(newWindow,text="Set ID",command=getID).pack()
-    def getID():
-        id = (en_id.get(),)
     
 
 root = tk.Tk()
@@ -81,47 +74,47 @@ fails = []
 points = {}
 logs = cfile('log.txt', 'w')
 
- DB = ent_DB.get()
-    logs.wl(f"DB: {DB}")
+DB = ent_DB.get()
+logs.wl(f"DB: {DB}")
 
-    conn = sqlite3.connect(DB)
-    c = conn.cursor()
-    logs.wl("Conected to DB succesfully! \n")
+conn = sqlite3.connect(DB)
+c = conn.cursor()
+logs.wl("Conected to DB succesfully! \n")
 
-    #Values for the placings
-    logs.wl("Values:")
-    values = {
-        1   : 10,
-        2   : 8,
-        3   : 6,
-        4   : 5,
-        8   : 4,
-        16  : 3,
-        32  : 2,
-        64  : 1,
-        128 : 0.5,
-        256 : 0.25,
-        512 : 0.125
-    }
-    logs.wl(str(values))
-    logs.wl("")
+#Values for the placings
+logs.wl("Values:")
+values = {
+    1   : 10,
+    2   : 8,
+    3   : 6,
+    4   : 5,
+    8   : 4,
+    16  : 3,
+    32  : 2,
+    64  : 1,
+    128 : 0.5,
+    256 : 0.25,
+    512 : 0.125
+}
+logs.wl(str(values))
+logs.wl("")
 
-    #Multipliers depending on the number of players
+#Multipliers depending on the number of players
 
-    multipliers = {
-        16  : 0.5,
-        32  : 0.75,
-        64  : 1,
-        128 : 2,
-        256 : 4,
-        512 : 8
-    }
-    logs.wl("Multipliers:")
-    logs.wl(str(multipliers))
-    logs.wl("")
+multipliers = {
+    16  : 0.5,
+    32  : 0.75,
+    64  : 1,
+    128 : 2,
+    256 : 4,
+    512 : 8
+}
+logs.wl("Multipliers:")
+logs.wl(str(multipliers))
+logs.wl("")
 
 
-def get_points(placings):
+def get_points(placings,player_tag):
     logs.wl("-----------------------------------------------------------")
     logs.wl(str(placings))
     logs.wl("-----------------------------------------------------------")
@@ -219,9 +212,9 @@ def get_points(placings):
         logs.wl("-----------------------------------------------------------")
         
         if len(provisional_points) > 0:
-            points[tag[0]] = sum(provisional_points)/len(provisional_points)
+            points[player_tag] = sum(provisional_points)/len(provisional_points)
         else:
-            points[tag[0]] = 0
+            points[player_tag] = 0
             
 
 
@@ -239,7 +232,7 @@ def seed():
 
     logs.wl(f"Filename: {filename}")
 
-    with open(filename, newline='') as csvfile:
+    with open(filename, newline='',encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         logs.wl("File opened succesfully! \n")
         for row in reader:
@@ -270,18 +263,20 @@ def seed():
                 points[tag[0]]=0
                 continue
             
-            get_points(placings)
+            get_points(placings,tag[0])
     
         for player_tag in fails:
-            openNewWindow(player_tag)
+            id = (tkinter.simpledialog.askstring(title="Seeder by @NoMeHeVistoFE Alpha1.1",prompt=f"Insert the id of the player {player_tag}"),)
+            print(id)
             logs.wl("-----------------------------------------------------------")
-            logs.wl(f"Player: {tag[0]}")
+            logs.wl(f"Player: {player_tag}")
             c.execute('SELECT placings FROM players WHERE player_id=?',id)
             placings = c.fetchone()
             if placings is None:
-                logs.wl('Incorrect ID!')
+                logs.wl('Incorrect ID!\nSetting random seed')
+                points[player_tag] = 0
                 continue
-            get_points(placings)
+            get_points(placings,player_tag)
             
         #Short dictionary
         values = dict(sorted(points.items(), key=lambda item: item[1], reverse=True))
